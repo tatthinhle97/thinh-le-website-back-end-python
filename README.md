@@ -1,8 +1,40 @@
+# Installation
+
+1. Create a virtual environment (`.venv`) either by using PyCharm or creating it manually.
+2. Activate the virtual environment. In PyCharm, the activate.ps1 file is located at `.\.venv\Scripts\activate.ps1`.
+3. Within the activated environment, use the following command to install FastAPI: `pip install "fastapi[standard]"`
+
+# A minimal application
+
+```
+from typing import Union
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+async def read_root():
+    return {"Hello": "World"}
+
+@app.get("/items/{item_id}")
+async def read_item(item_id: int, q: Union[str, None] = None):
+    return {"item_id": item_id, "q": q}
+```
+
+Save it as `test.py` or something similar.
+
+To run the application, use `fastapi dev test.py`
+
+Test the endpoints:
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/items/5?q=somequery
+
+## Interactive API docs
+http://127.0.0.1:8000/docs
+
 # Deploy FastAPI on Render
 
-Use this repo as a template to deploy a Python [FastAPI](https://fastapi.tiangolo.com) service on Render.
-
-See https://render.com/docs/deploy-fastapi or follow the steps below:
+Create your own repository using the [render-examples/fastapi](https://github.com/new?template_name=fastapi&template_owner=render-examples) template on GitHub.
 
 ## Manual Steps
 

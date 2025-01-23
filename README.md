@@ -2,7 +2,7 @@
 
 1. Create a virtual environment (`.venv`) either by using PyCharm or creating it manually.
 2. Activate the virtual environment. In PyCharm, the activate.ps1 file is located at `.\.venv\Scripts\activate.ps1`.
-3. Within the activated environment, use the following command to install FastAPI: `pip install "fastapi[standard]"`
+3. Within the activated environment, use the following command to install FastAPI: `pip install "fastapi[all]"`
 
 # A minimal application
 
@@ -21,9 +21,9 @@ async def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
 ```
 
-Save it as `test.py` or something similar.
+Save it as `main.py` or something similar.
 
-To run the application, use `fastapi dev test.py`
+To run the application, use `fastapi dev main.py`
 
 Test the endpoints:
 http://127.0.0.1:8000/
@@ -57,3 +57,39 @@ Or simply click:
 ## Thanks
 
 Thanks to [Harish](https://harishgarg.com) for the [inspiration to create a FastAPI quickstart for Render](https://twitter.com/harishkgarg/status/1435084018677010434) and for some sample code!
+
+# Architecture
+
+## Create a microservice
+
+### `__init__` file
+
+The `__init__.py` files are required to make Python treat directories containing the file as packages. In the simplest case, `__init__.py` can just be an empty file, but it can also execute initialization code for the package or set the `__all__` variable.
+
+Example:
+
+```
+sound/                          Top-level package
+      __init__.py               Initialize the sound package
+      formats/                  Subpackage for file format conversions
+              __init__.py
+              wavread.py
+              wavwrite.py
+              aiffread.py
+              aiffwrite.py
+              auread.py
+              auwrite.py
+              ...
+      effects/                  Subpackage for sound effects
+              __init__.py
+              echo.py
+              surround.py
+              reverse.py
+              ...
+      filters/                  Subpackage for filters
+              __init__.py
+              equalizer.py
+              vocoder.py
+              karaoke.py
+              ...
+```

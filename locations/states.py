@@ -8,9 +8,10 @@ router = APIRouter(
 )
 
 @router.get(
-    '/',
+    # [Tip] Should not put '/' because front end will receive status 307
+    '',
     summary='Get all states',
-    description='Get all states in the US'
+    description='Get all states'
 )
 async def get_states():
     file_path = os.path.join(os.getcwd(), 'data', 'states.csv')

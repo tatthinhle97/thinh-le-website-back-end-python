@@ -10,7 +10,7 @@ router = APIRouter(
 @router.get(
     '/initial-sale-listings',
     summary='Get initial sale listings.',
-    description='Data was collected in New Jersey - Atlantic City'
+    description='Sale listings in New Jersey - Atlantic City'
 )
 async def get_initial_sale_listings():
     file_path = os.path.join(os.getcwd(), 'data', 'nj-sale-listings.json')

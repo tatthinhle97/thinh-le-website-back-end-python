@@ -4,33 +4,15 @@
 2. Activate the virtual environment. In PyCharm, the activate.ps1 file is located at `.\.venv\Scripts\activate.ps1`.
 3. Within the activated environment, use the following command to install FastAPI: `pip install "fastapi[all]"`
 
-# A minimal application
-
-```
-from typing import Union
-from fastapi import FastAPI
-
-app = FastAPI()
-
-@app.get("/")
-async def read_root():
-    return {"Hello": "World"}
-
-@app.get("/items/{item_id}")
-async def read_item(item_id: int, q: Union[str, None] = None):
-    return {"item_id": item_id, "q": q}
-```
-
-Save it as `main.py` or something similar.
+# Run the application
 
 To run the application, use `fastapi dev main.py`
 
 Test the endpoints:
-http://127.0.0.1:8000/
-http://127.0.0.1:8000/items/5?q=somequery
 
-## Interactive API docs
-http://127.0.0.1:8000/docs
+http://127.0.0.1:8000
+
+http://127.0.0.1:8000/items/5?q=somequery
 
 # Deploy FastAPI on Render
 
@@ -54,9 +36,18 @@ Or simply click:
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/fastapi)
 
-## Thanks
+# Quick actions
 
-Thanks to [Harish](https://harishgarg.com) for the [inspiration to create a FastAPI quickstart for Render](https://twitter.com/harishkgarg/status/1435084018677010434) and for some sample code!
+## Kill active process by port
+
+```cmd
+netstat -ano | findstr :8000
+taskkill /pid 1234 /f
+```
+
+## Terminate uvicorn server
+
+Find running python processes and terminate them (be careful)
 
 # Architecture
 

@@ -2,9 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from locations import states, cities
 from projects import sale_and_rental_listings
-from settings import Settings
 
-app_settings = Settings()
 # This will be the main point of interaction to create all your API.
 app = FastAPI()
 

@@ -2,14 +2,14 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from locations import states, cities
 from projects import sale_and_rental_listings
+from app_settings import Settings
 
 # This will be the main point of interaction to create all your API.
 app = FastAPI()
+settings = Settings()
 
 origins = [
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
-    "https://tatthinhle.vercel.app"
+    settings.front_end_origin
 ]
 
 app.add_middleware(

@@ -873,51 +873,6 @@
         }
     },
     {
-        "id": "100-S-Texas-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "100 S Texas Ave, Atlantic City, NJ 08401",
-        "addressLine1": "100 S Texas Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.584169,
-        "longitude": -74.574906,
-        "propertyType": "Land",
-        "lotSize": 2040,
-        "status": "Active",
-        "price": 90000,
-        "listingType": "Standard",
-        "listedDate": "2023-12-08T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2020-11-11T13:24:36.197Z",
-        "lastSeenDate": "2025-01-16T10:52:05.084Z",
-        "daysOnMarket": 406,
-        "mlsName": "BrightMLS",
-        "mlsNumber": "NJAC2010644",
-        "listingAgent": {
-            "name": "Fernando Lopez-maya",
-            "phone": "6095947111",
-            "email": "buyorsellwithlopez@gmail.com"
-        },
-        "listingOffice": {
-            "name": "EXP Realty, LLC",
-            "phone": "8662016210",
-            "email": "nj.broker@exprealty.net",
-            "website": "www.exprealty.com"
-        },
-        "history": {
-            "2023-12-08": {
-                "event": "Sale Listing",
-                "price": 90000,
-                "listingType": "Standard",
-                "listedDate": "2023-12-08T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 406
-            }
-        }
-    },
-    {
         "id": "7-N-Florida-Ave,-Atlantic-City,-NJ-08401",
         "formattedAddress": "7 N Florida Ave, Atlantic City, NJ 08401",
         "addressLine1": "7 N Florida Ave",

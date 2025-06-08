@@ -2,3 +2,5 @@ fastapi[all]
 pandas
 pydantic
 pydantic_settings
+qdrant_client
+python-dotenv

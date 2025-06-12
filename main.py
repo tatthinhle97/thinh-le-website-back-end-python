@@ -1,11 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from locations import states, cities
-from projects import sale_and_rental_listings
+from routes.locations import states, cities
+from routes.projects import sale_and_rental_listings
 import os
 from dotenv import load_dotenv
-
-
+from services import embedding
 
 # This will be the main point of interaction to create all your API.
 app = FastAPI()
@@ -28,4 +27,4 @@ app.include_router(sale_and_rental_listings.router)
 
 @app.get('/')
 async def root():
-    return "Hi there!"
+    return embedding.encode_sentences("Hi there")

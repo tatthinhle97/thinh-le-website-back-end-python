@@ -2,6 +2,7 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams
 import os
 from dotenv import load_dotenv
+from embedding import encode_sentences
 
 load_dotenv()
 
@@ -22,5 +23,15 @@ def create_collection(collection_name):
         # Model doc: https://sbert.net/docs/sentence_transformer/pretrained_models.html#original-models
         vectors_config=VectorParams(size=384, distance=Distance.COSINE)
     )
+
+def search_similar_sentences(sentence, collection_name, limit=5):
+    encoded_sentences = encode_sentences([sentence])
+    similar_sentences = client.query_points(
+        collection_name=collection_name,
+        query=encoded_sentences[0],
+        # How many similar sentences you want to return?
+        limit=limit)
+
+    return similar_sentences
 
 print(client.get_collections())

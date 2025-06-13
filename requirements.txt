@@ -2,9 +2,4 @@ fastapi[all]
 pandas
 pydantic
 pydantic_settings
-qdrant_client
 python-dotenv
-# Transform texts into vector embedding
-sentence_transformers
-# Improve download speed from hugging face
-hf_xet

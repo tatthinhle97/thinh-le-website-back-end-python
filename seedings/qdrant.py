@@ -1,1 +1,4 @@
-# RUN pip install playwright && playwright install
+# Notes:
+#   Install playwright: `pip install playwright`
+#   Run `playwright install` to install web driver
+

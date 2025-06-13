@@ -5,7 +5,6 @@ from routes.projects import sale_and_rental_listings
 from routes import chat
 import os
 from dotenv import load_dotenv
-from services import embedding
 
 # This will be the main point of interaction to create all your API.
 app = FastAPI()
@@ -29,4 +28,4 @@ app.include_router(sale_and_rental_listings.router)
 
 @app.get('/')
 async def root():
-    return embedding.encode_sentences("Hi there")
+    return "Hi there"

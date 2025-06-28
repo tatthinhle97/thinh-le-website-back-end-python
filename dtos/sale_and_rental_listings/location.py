@@ -1,8 +1,7 @@
-from typing import Optional, List
+from typing import Optional
 from pydantic import BaseModel
 
-
-class LocationDTO(BaseModel):
+class LocationDto(BaseModel):
     title: str
     latitude: float
     longitude: float

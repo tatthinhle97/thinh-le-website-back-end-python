@@ -1,9 +1,9 @@
 from fastapi import APIRouter
 import os
-from dtos.sale_and_rental_listings.coordinate import CoordinateDTO
-from dtos.sale_and_rental_listings.location import LocationDTO
+from dtos.sale_and_rental_listings.coordinate import CoordinateDto
+from dtos.sale_and_rental_listings.location import LocationDto
 from utilities.file_reader import read_json
-from dtos.sale_and_rental_listings.index import SaleAndRentalListingsDTO
+from dtos.sale_and_rental_listings.index import SaleAndRentalListingsDto
 
 
 router = APIRouter(
@@ -12,7 +12,7 @@ router = APIRouter(
 )
 
 def to_location_dto(_listing):
-    return LocationDTO(
+    return LocationDto(
         title = _listing.get('formattedAddress'),
         latitude = _listing.get('latitude'),
         longitude = _listing.get('longitude'),
@@ -27,7 +27,7 @@ def to_location_dto(_listing):
     )
 
 def to_coordinate_dto(_listing):
-    return CoordinateDTO(
+    return CoordinateDto(
         lat = _listing.get('latitude'),
         lng = _listing.get('longitude')
     )
@@ -47,7 +47,7 @@ async def get_initial_sale_listings():
         location_dtos.append(to_location_dto(listing))
         coordinate_dtos.append(to_coordinate_dto(listing))
 
-    result = SaleAndRentalListingsDTO(
+    result = SaleAndRentalListingsDto(
         locations = location_dtos,
         coordinates = coordinate_dtos
     )

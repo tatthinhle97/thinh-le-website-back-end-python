@@ -1,5 +1,5 @@
 from pydantic import BaseModel
 
-
-class ChatQueryDTO(BaseModel):
+class ChatQueryDto(BaseModel):
+    collection_name: str
     message: str

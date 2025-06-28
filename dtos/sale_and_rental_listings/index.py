@@ -1,9 +1,8 @@
 from typing import List
 from pydantic import BaseModel
-from dtos.sale_and_rental_listings.coordinate import CoordinateDTO
-from dtos.sale_and_rental_listings.location import LocationDTO
+from dtos.sale_and_rental_listings.coordinate import CoordinateDto
+from dtos.sale_and_rental_listings.location import LocationDto
 
-
-class SaleAndRentalListingsDTO(BaseModel):
-    locations: List[LocationDTO]
-    coordinates: List[CoordinateDTO]
+class SaleAndRentalListingsDto(BaseModel):
+    locations: List[LocationDto]
+    coordinates: List[CoordinateDto]

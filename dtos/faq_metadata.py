@@ -5,5 +5,5 @@ from constants.types.metadata import MetadataType
 class FaqMetadataDto(BaseModel):
     type: str = MetadataType.FAQ
     question: str
-    keywords: List[str]
+    tags: List[str]
     answer: str

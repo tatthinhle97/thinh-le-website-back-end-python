@@ -7,5 +7,5 @@ class PageMetadataDto(BaseModel):
     url: str
     title: str
     path: str
-    keywords: List[str]
-    description: str
+    tags: List[str]
+    more_information: str

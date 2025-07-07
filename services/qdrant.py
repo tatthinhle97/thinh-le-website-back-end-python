@@ -62,10 +62,10 @@ def upsert(_collection_name, _points):
             points=_points
         )
 
-        print(f"[INFO] Upsert result:\n{upsert_result}")
+        print(f"[INFO] Upsert result: {upsert_result.status}")
         return upsert_result
     except Exception as e:
-        print(f"[ERROR] Can't upsert:\n{e}")
+        print(f"[ERROR] Can't upsert: {e}")
         return None
 
 def search_similar_points_by_query(_collection_name, _query, _limit=5):

@@ -9,14 +9,17 @@ router = APIRouter(
 
 @router.post(
     '',
-    summary='Chatbot response',
+    summary='Send user message',
     description='Receive a query from the user and response with an answer'
 )
 async def send_message(chatQueryDto: ChatQueryDto):
     search_response = search_similar_points_by_query(
-        chatQueryDto.collection_name,
+        'website_metadata',
         chatQueryDto.message)
 
     point_with_highest_score = find_highest_score(search_response.points)
+
+    if point_with_highest_score.score < 0.25:
+        return None
 
     return point_with_highest_score

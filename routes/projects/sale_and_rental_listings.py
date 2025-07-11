@@ -4,7 +4,7 @@ from dtos.sale_and_rental_listings.coordinate import CoordinateDto
 from dtos.sale_and_rental_listings.location import LocationDto
 from utilities.file_reader import read_json
 from dtos.sale_and_rental_listings.index import SaleAndRentalListingsDto
-
+import statistics
 
 router = APIRouter(
     prefix='/projects/sale-and-rental-listings',
@@ -26,10 +26,10 @@ def to_location_dto(_listing):
         status = _listing.get('status')
     )
 
-def to_coordinate_dto(_listing):
+def to_coordinate_dto(_location_dto: LocationDto):
     return CoordinateDto(
-        lat = _listing.get('latitude'),
-        lng = _listing.get('longitude')
+        lat = _location_dto.latitude,
+        lng = _location_dto.longitude
     )
 
 @router.get(
@@ -43,13 +43,32 @@ async def get_initial_sale_listings():
     location_dtos = []
     coordinate_dtos = []
 
+    min_price = listings[0]['price']
+    max_price = listings[0]['price']
+    prices = []
+
     for listing in listings:
-        location_dtos.append(to_location_dto(listing))
-        coordinate_dtos.append(to_coordinate_dto(listing))
+        location_dto = to_location_dto(listing)
+        location_dtos.append(location_dto)
+        coordinate_dto = to_coordinate_dto(location_dto)
+        coordinate_dtos.append(coordinate_dto)
+
+        if min_price > location_dto.price:
+            min_price = location_dto.price
+
+        if max_price < location_dto.price:
+            max_price = location_dto.price
+
+        prices.append(location_dto.price)
+
+    median_price = statistics.median(prices)
 
     result = SaleAndRentalListingsDto(
         locations = location_dtos,
-        coordinates = coordinate_dtos
+        coordinates = coordinate_dtos,
+        min_price = min_price,
+        median_price = median_price,
+        max_price = max_price,
     )
 
     return result

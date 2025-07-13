@@ -6,6 +6,7 @@ class LocationDto(BaseModel):
     latitude: float
     longitude: float
     propertyType: str
+    listingType: str
     bedrooms: Optional[float]
     bathrooms: Optional[float]
     livingArea: Optional[float]

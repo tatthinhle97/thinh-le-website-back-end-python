@@ -17,6 +17,7 @@ def to_location_dto(_listing):
         latitude = _listing.get('latitude'),
         longitude = _listing.get('longitude'),
         propertyType = _listing.get('propertyType'),
+        listingType = _listing.get('listingType'),
         bedrooms = _listing.get('bedrooms'),
         bathrooms = _listing.get('bathrooms'),
         livingArea = _listing.get('squareFootage'),
@@ -26,10 +27,10 @@ def to_location_dto(_listing):
         status = _listing.get('status')
     )
 
-def to_coordinate_dto(_location_dto: LocationDto):
+def to_coordinate_dto(_listing):
     return CoordinateDto(
-        lat = _location_dto.latitude,
-        lng = _location_dto.longitude
+        lat = _listing.get('latitude'),
+        lng = _listing.get('longitude')
     )
 
 @router.get(
@@ -43,32 +44,13 @@ async def get_initial_sale_listings():
     location_dtos = []
     coordinate_dtos = []
 
-    min_price = listings[0]['price']
-    max_price = listings[0]['price']
-    prices = []
-
     for listing in listings:
-        location_dto = to_location_dto(listing)
-        location_dtos.append(location_dto)
-        coordinate_dto = to_coordinate_dto(location_dto)
-        coordinate_dtos.append(coordinate_dto)
-
-        if min_price > location_dto.price:
-            min_price = location_dto.price
-
-        if max_price < location_dto.price:
-            max_price = location_dto.price
-
-        prices.append(location_dto.price)
-
-    median_price = statistics.median(prices)
+        location_dtos.append(to_location_dto(listing))
+        coordinate_dtos.append(to_coordinate_dto(listing))
 
     result = SaleAndRentalListingsDto(
         locations = location_dtos,
         coordinates = coordinate_dtos,
-        min_price = min_price,
-        median_price = median_price,
-        max_price = max_price,
     )
 
     return result

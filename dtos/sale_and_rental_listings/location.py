@@ -3,8 +3,8 @@ from pydantic import BaseModel
 
 class LocationDto(BaseModel):
     title: str
-    latitude: float
-    longitude: float
+    lat: float
+    lng: float
     propertyType: str
     listingType: str
     bedrooms: Optional[float]

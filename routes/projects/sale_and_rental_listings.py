@@ -36,4 +36,7 @@ async def get_initial_sale_listings():
     for listing in listings:
         location_dtos.append(to_location_dto(listing))
 
-    return location_dtos
+    location_dtos_sorted_by_price = sorted(location_dtos,
+                                      key=lambda _listing: _listing.price)
+
+    return location_dtos_sorted_by_price

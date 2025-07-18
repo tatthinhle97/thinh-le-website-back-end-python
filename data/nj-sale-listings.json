@@ -1,491 +1,2043 @@
 [
     {
-        "id": "350-Pacific-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "350 Pacific Ave, Atlantic City, NJ 08401",
-        "addressLine1": "350 Pacific Ave",
+        "id": "2-Pharo-Ln,-Cape-May,-NJ-08204",
+        "formattedAddress": "2 Pharo Ln, Cape May, NJ 08204",
+        "addressLine1": "2 Pharo Ln",
         "addressLine2": null,
-        "city": "Atlantic City",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.365656,
-        "longitude": -74.414169,
-        "propertyType": "Land",
-        "lotSize": 1742,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.947719,
+        "longitude": -74.912662,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "lotSize": 1891,
+        "yearBuilt": 2016,
         "status": "Active",
-        "price": 2000000,
+        "price": 3490000,
         "listingType": "Standard",
-        "listedDate": "2023-07-14T00:00:00.000Z",
+        "listedDate": "2024-08-16T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2023-07-15T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.613Z",
-        "daysOnMarket": 731,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "575899",
+        "createdDate": "2023-11-23T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T10:07:47.590Z",
+        "daysOnMarket": 336,
+        "mlsName": "CapeMay",
+        "mlsNumber": "242403",
         "listingAgent": {
-            "name": "Worthingto,meg",
-            "phone": "6094872400",
-            "email": "mworthington.frankelre@comcast.net"
+            "name": "Colleen White",
+            "phone": "6099677950",
+            "email": "colleen.white@tksir.com",
+            "website": "http://www.tksir.com"
         },
         "listingOffice": {
-            "name": "GRACE PROPERTIES",
-            "phone": "6092649005",
-            "email": "graceproperties1@verizon.net",
-            "website": "www.graceproperties.net"
+            "name": "Tim Kerr Sotheby's International Realty",
+            "phone": "6098302181",
+            "email": "info@timkerrsir.com",
+            "website": "https://www.timkerrsir.com/"
         },
         "history": {
-            "2023-07-14": {
+            "2024-08-16": {
                 "event": "Sale Listing",
-                "price": 2000000,
+                "price": 3490000,
                 "listingType": "Standard",
-                "listedDate": "2023-07-14T00:00:00.000Z",
+                "listedDate": "2024-08-16T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 731
+                "daysOnMarket": 336
             }
         }
     },
     {
-        "id": "3201-3207-Pacific-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "3201-3207 Pacific Ave, Atlantic City, NJ 08401",
-        "addressLine1": "3201-3207 Pacific Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
+        "id": "306-Sixth-Ave,-West,-Cape-May,-NJ-08204",
+        "formattedAddress": "306 Sixth Ave, West, Cape May, NJ 08204",
+        "addressLine1": "306 Sixth Ave",
+        "addressLine2": "West",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.316948,
-        "longitude": -74.520424,
-        "propertyType": "Land",
-        "lotSize": 43560,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.94339,
+        "longitude": -74.937744,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 4.5,
+        "squareFootage": 2000,
+        "lotSize": 8016,
+        "yearBuilt": 2024,
         "status": "Active",
-        "price": 3500000,
-        "listingType": "Standard",
-        "listedDate": "2023-07-31T00:00:00.000Z",
+        "price": 1890000,
+        "listingType": "New Construction",
+        "listedDate": "2024-11-09T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2023-08-01T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.612Z",
-        "daysOnMarket": 714,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "576397",
+        "createdDate": "2022-03-30T11:01:30.828Z",
+        "lastSeenDate": "2025-07-17T09:32:37.772Z",
+        "daysOnMarket": 251,
+        "mlsName": "CapeMay",
+        "mlsNumber": "243331",
         "listingAgent": {
-            "name": "Worthingto,meg",
-            "phone": "6094872400",
-            "email": "mworthington.frankelre@comcast.net"
+            "name": "Joseph Gilmartin",
+            "phone": "6098841800",
+            "email": "c21gilmart@aol.com",
+            "website": "http://www.capemayvacations.com"
         },
         "listingOffice": {
-            "name": "GRACE PROPERTIES",
-            "phone": "6092649005",
-            "email": "graceproperties1@verizon.net",
-            "website": "www.graceproperties.net"
+            "name": "CENTURY 21 Gilmartin & Company",
+            "phone": "6098841800",
+            "email": "c21capemay@gmail.com",
+            "website": "http://www.capemayvacations.com/"
         },
         "history": {
-            "2023-07-31": {
+            "2024-11-09": {
                 "event": "Sale Listing",
-                "price": 3500000,
-                "listingType": "Standard",
-                "listedDate": "2023-07-31T00:00:00.000Z",
+                "price": 1890000,
+                "listingType": "New Construction",
+                "listedDate": "2024-11-09T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 714
+                "daysOnMarket": 251
             }
         }
     },
     {
-        "id": "415-Carson-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "415 Carson Ave, Atlantic City, NJ 08401",
-        "addressLine1": "415 Carson Ave",
+        "id": "306-Sixth-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "306 Sixth Ave, Cape May, NJ 08204",
+        "addressLine1": "306 Sixth Ave",
         "addressLine2": null,
-        "city": "Atlantic City",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.376722,
-        "longitude": -74.422412,
-        "propertyType": "Land",
-        "lotSize": 43560,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.94339,
+        "longitude": -74.937744,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 4.5,
+        "squareFootage": 2565,
+        "yearBuilt": 2023,
         "status": "Active",
-        "price": 4900000,
-        "listingType": "Standard",
-        "listedDate": "2022-04-11T00:00:00.000Z",
+        "price": 1890000,
+        "listingType": "New Construction",
+        "listedDate": "2024-11-09T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2022-04-22T16:05:16.022Z",
-        "lastSeenDate": "2025-07-13T11:54:17.533Z",
-        "daysOnMarket": 1190,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "561688",
+        "createdDate": "2024-11-10T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T09:32:37.770Z",
+        "daysOnMarket": 251,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2004318",
         "listingAgent": {
-            "name": "Carlo Losco, President",
-            "phone": "6098726600",
-            "email": "closco@carlolosco.com",
-            "website": "http://blhomes.com/homes_for_sale/balsley_losco_realty/default.aspx"
+            "name": "Joseph T Gilmartin",
+            "phone": "6098841800",
+            "email": "c21capemay@gmail.com"
         },
         "listingOffice": {
-            "name": "Balsley Losco",
-            "phone": "6096463207",
-            "email": "closco@carlolosco.com",
-            "website": "http://www.blhomes.com"
+            "name": "Century 21 Gilmartin & Company",
+            "phone": "6098841800",
+            "email": "c21capemay@gmail.com"
         },
         "history": {
-            "2022-04-11": {
+            "2024-11-09": {
                 "event": "Sale Listing",
-                "price": 4900000,
-                "listingType": "Standard",
-                "listedDate": "2022-04-11T00:00:00.000Z",
+                "price": 1890000,
+                "listingType": "New Construction",
+                "listedDate": "2024-11-09T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 1190
+                "daysOnMarket": 251
             }
         }
     },
     {
-        "id": "347-N-New-Jersey-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "347 N New Jersey Ave, Atlantic City, NJ 08401",
-        "addressLine1": "347 N New Jersey Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
+        "id": "6-W-Congress-St,-West,-Cape-May,-NJ-08204",
+        "formattedAddress": "6 W Congress St, West, Cape May, NJ 08204",
+        "addressLine1": "6 W Congress St",
+        "addressLine2": "West",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.370844,
-        "longitude": -74.42247,
-        "propertyType": "Land",
-        "lotSize": 2178,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.934536,
+        "longitude": -74.932073,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1530,
+        "lotSize": 3816,
+        "yearBuilt": 1974,
         "status": "Active",
-        "price": 19900,
+        "price": 1399000,
         "listingType": "Standard",
-        "listedDate": "2023-03-17T00:00:00.000Z",
+        "listedDate": "2025-02-11T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2022-08-30T08:02:14.202Z",
-        "lastSeenDate": "2025-07-13T11:54:17.528Z",
-        "daysOnMarket": 850,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "572117",
+        "createdDate": "2024-08-29T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T09:32:37.758Z",
+        "daysOnMarket": 157,
+        "mlsName": "CapeMay",
+        "mlsNumber": "250355",
         "listingAgent": {
-            "name": "Paula Hartman",
-            "phone": "6092717337",
-            "email": "redheadedrealtor@aol.com",
-            "website": "https://hartmanhometeam.com/"
+            "name": "James Mcbride",
+            "phone": "6094083076",
+            "email": "jim@cbcapemay.com",
+            "website": "http://e.g. http://www.yourwebsite.com"
         },
         "listingOffice": {
-            "name": "BHHS Fox & Roach Margate",
-            "email": "clientservices@foxroach.com",
-            "website": "https://margate.foxroach.com"
+            "name": "Coldwell Banker Sol Needles Real Estate",
+            "phone": "6098848428",
+            "email": "realestate@cbcapemay.com",
+            "website": "http://www.cbcapemay.com"
         },
         "history": {
-            "2023-03-17": {
+            "2024-08-28": {
                 "event": "Sale Listing",
-                "price": 19900,
+                "price": 1495000,
                 "listingType": "Standard",
-                "listedDate": "2023-03-17T00:00:00.000Z",
+                "listedDate": "2024-08-28T00:00:00.000Z",
+                "removedDate": "2024-11-05T00:00:00.000Z",
+                "daysOnMarket": 69
+            },
+            "2025-02-11": {
+                "event": "Sale Listing",
+                "price": 1399000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-11T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 850
+                "daysOnMarket": 157
             }
         }
     },
     {
-        "id": "35-N-Boston-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "35 N Boston Ave, Atlantic City, NJ 08401",
-        "addressLine1": "35 N Boston Ave",
+        "id": "821-Beach-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "821 Beach Ave, Cape May, NJ 08204",
+        "addressLine1": "821 Beach Ave",
         "addressLine2": null,
-        "city": "Atlantic City",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.354165,
-        "longitude": -74.452152,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.931255,
+        "longitude": -74.915258,
+        "propertyType": "Single Family",
+        "bedrooms": 8,
+        "bathrooms": 5.5,
+        "squareFootage": 3830,
+        "lotSize": 6270,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 6175000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-20T21:12:32.018Z",
+        "lastSeenDate": "2025-07-17T09:32:37.723Z",
+        "daysOnMarket": 169,
+        "mlsName": "CapeMay",
+        "mlsNumber": "250233",
+        "listingAgent": {
+            "name": "Emig Francis",
+            "phone": "6107151564",
+            "email": "bud@pa-nj-realty.com",
+            "website": "http://www.pa-nj-realty.com/"
+        },
+        "listingOffice": {
+            "name": "Long & Foster Avalon",
+            "phone": "6099673001",
+            "email": "longandfoster@broker1suite.com",
+            "website": "https://www.longandfoster.com/office/officeinfo.aspx"
+        },
+        "history": {
+            "2025-01-30": {
+                "event": "Sale Listing",
+                "price": 6175000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 169
+            }
+        }
+    },
+    {
+        "id": "6-Rabbit-Run,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "6 Rabbit Run, North, Cape May, NJ 08204",
+        "addressLine1": "6 Rabbit Run",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.986992,
+        "longitude": -74.920122,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 3467,
+        "lotSize": 55757,
+        "yearBuilt": 1985,
+        "status": "Active",
+        "price": 727300,
+        "listingType": "Standard",
+        "listedDate": "2025-01-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-21T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T09:32:37.718Z",
+        "daysOnMarket": 168,
+        "mlsName": "CapeMay",
+        "mlsNumber": "250271",
+        "listingAgent": {
+            "name": "Tai Menz",
+            "phone": "6096028061",
+            "email": "taimenz@coastlinerealty.com",
+            "website": "https://taimenz.com"
+        },
+        "listingOffice": {
+            "name": "Coastline Realty,LLC",
+            "phone": "6098845005",
+            "email": "info@coastlinerealty.com",
+            "website": "http://www.coastlinerealty.com"
+        },
+        "history": {
+            "2025-01-31": {
+                "event": "Sale Listing",
+                "price": 727300,
+                "listingType": "Standard",
+                "listedDate": "2025-01-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 168
+            }
+        }
+    },
+    {
+        "id": "821-Beach-Dr,-Cape-May,-NJ-08204",
+        "formattedAddress": "821 Beach Dr, Cape May, NJ 08204",
+        "addressLine1": "821 Beach Dr",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.931255,
+        "longitude": -74.915258,
+        "propertyType": "Single Family",
+        "bedrooms": 8,
+        "bathrooms": 5.5,
+        "squareFootage": 3830,
+        "lotSize": 6098,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 6175000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-04T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T09:32:37.704Z",
+        "daysOnMarket": 165,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2004558",
+        "listingAgent": {
+            "name": "Bud Emig",
+            "phone": "6102257400",
+            "email": "bud@pa-nj-realty.com",
+            "website": "http://www.pa-nj-realty.com/"
+        },
+        "listingOffice": {
+            "name": "LONG & FOSTER - Devon",
+            "phone": "6102257400",
+            "email": "longandfoster@broker1suite.com",
+            "website": "http://www.longandfoster.com"
+        },
+        "history": {
+            "2025-02-03": {
+                "event": "Sale Listing",
+                "price": 6175000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 165
+            }
+        }
+    },
+    {
+        "id": "24-Ocean-St,-Cape-May,-NJ-08204",
+        "formattedAddress": "24 Ocean St, Cape May, NJ 08204",
+        "addressLine1": "24 Ocean St",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.931352,
+        "longitude": -74.920542,
+        "propertyType": "Single Family",
+        "bedrooms": 8,
+        "bathrooms": 9,
+        "squareFootage": 4012,
+        "lotSize": 5480,
+        "yearBuilt": 1880,
+        "status": "Active",
+        "price": 4425000,
+        "listingType": "Standard",
+        "listedDate": "2024-11-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-06-16T12:26:58.529Z",
+        "lastSeenDate": "2025-07-17T09:32:37.690Z",
+        "daysOnMarket": 232,
+        "mlsName": "CapeMay",
+        "mlsNumber": "243467",
+        "listingAgent": {
+            "name": "Kimberly Gipple",
+            "phone": "6099729302",
+            "email": "kim@coastlinerealty.com",
+            "website": "http://www.coastlinerealty.com"
+        },
+        "listingOffice": {
+            "name": "Coastline Realty,LLC",
+            "phone": "6098845005",
+            "email": "info@coastlinerealty.com",
+            "website": "http://www.coastlinerealty.com"
+        },
+        "history": {
+            "2024-11-28": {
+                "event": "Sale Listing",
+                "price": 4425000,
+                "listingType": "Standard",
+                "listedDate": "2024-11-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 232
+            }
+        }
+    },
+    {
+        "id": "66-Beachhurst-Dr,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "66 Beachhurst Dr, North, Cape May, NJ 08204",
+        "addressLine1": "66 Beachhurst Dr",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.987454,
+        "longitude": -74.949394,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1624,
+        "lotSize": 10000,
+        "yearBuilt": 1968,
+        "status": "Active",
+        "price": 459900,
+        "listingType": "Standard",
+        "listedDate": "2024-11-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-12-01T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T09:32:37.690Z",
+        "daysOnMarket": 230,
+        "mlsName": "CapeMay",
+        "mlsNumber": "243481",
+        "listingAgent": {
+            "name": "Lisa Bassett",
+            "phone": "6098865000",
+            "email": "lisa@farrellrealtycapemay.com",
+            "website": "https://www.farrellrealtycapemay.com/"
+        },
+        "listingOffice": {
+            "name": "FARRELL REALTY",
+            "phone": "6098860010",
+            "email": "office@farrellrealtycapemay.com",
+            "website": "http://farrellrealtycapemay.com"
+        },
+        "history": {
+            "2024-11-30": {
+                "event": "Sale Listing",
+                "price": 459900,
+                "listingType": "Standard",
+                "listedDate": "2024-11-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 230
+            }
+        }
+    },
+    {
+        "id": "6-Rabbit-Run,-Cape-May,-NJ-08204",
+        "formattedAddress": "6 Rabbit Run, Cape May, NJ 08204",
+        "addressLine1": "6 Rabbit Run",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.986992,
+        "longitude": -74.920122,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 4.5,
+        "squareFootage": 3467,
+        "lotSize": 55757,
+        "yearBuilt": 1985,
+        "hoa": {
+            "fee": 10
+        },
+        "status": "Active",
+        "price": 727300,
+        "listingType": "Standard",
+        "listedDate": "2025-02-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-01T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T09:32:37.675Z",
+        "daysOnMarket": 167,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2004626",
+        "listingAgent": {
+            "name": "Tai Menz",
+            "phone": "6098845005",
+            "email": "taimenz@coastlinerealty.com"
+        },
+        "listingOffice": {
+            "name": "Coastline Realty, LLC",
+            "phone": "6098845005"
+        },
+        "history": {
+            "2025-02-01": {
+                "event": "Sale Listing",
+                "price": 727300,
+                "listingType": "Standard",
+                "listedDate": "2025-02-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 167
+            }
+        }
+    },
+    {
+        "id": "3604-Bayshore-Rd,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "3604 Bayshore Rd, North, Cape May, NJ 08204",
+        "addressLine1": "3604 Bayshore Rd",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.984989,
+        "longitude": -74.94091,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "lotSize": 9374,
+        "yearBuilt": 1962,
+        "status": "Active",
+        "price": 499000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-05T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T09:32:37.664Z",
+        "daysOnMarket": 164,
+        "mlsName": "CapeMay",
+        "mlsNumber": "250306",
+        "listingAgent": {
+            "name": "Michael Wilson",
+            "phone": "6098892121",
+            "email": "mike@wilsonshorehomes.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 Alliance",
+            "phone": "6098892121",
+            "email": "medfordadmin@c21anj.com",
+            "website": "c21anj.com"
+        },
+        "history": {
+            "2025-02-04": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 164
+            }
+        }
+    },
+    {
+        "id": "610-Sunset-Blvd,-Cape-May,-NJ-08204",
+        "formattedAddress": "610 Sunset Blvd, Cape May, NJ 08204",
+        "addressLine1": "610 Sunset Blvd",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.941582,
+        "longitude": -74.958996,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1508,
+        "lotSize": 27878,
+        "yearBuilt": 1971,
+        "status": "Active",
+        "price": 1295000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-14T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:56:31.965Z",
+        "daysOnMarket": 127,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2004838",
+        "listingAgent": {
+            "name": "Gail Wilsey-morrison",
+            "phone": "6096020405",
+            "email": "gailwilsey@gmail.com",
+            "website": "https://www.longandfoster.com/gailwilseymorrison"
+        },
+        "listingOffice": {
+            "name": "Long & Foster Real Estate, Inc.",
+            "phone": "6098841007"
+        },
+        "history": {
+            "2025-03-13": {
+                "event": "Sale Listing",
+                "price": 1295000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 127
+            }
+        }
+    },
+    {
+        "id": "1400-Franklin-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "1400 Franklin Ave, North, Cape May, NJ 08204",
+        "addressLine1": "1400 Franklin Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.977561,
+        "longitude": -74.956523,
         "propertyType": "Single Family",
         "bedrooms": 3,
         "bathrooms": 1.5,
-        "lotSize": 1713,
+        "lotSize": 8500,
+        "yearBuilt": 1966,
         "status": "Active",
-        "price": 265900,
+        "price": 899000,
         "listingType": "Standard",
-        "listedDate": "2024-02-01T00:00:00.000Z",
+        "listedDate": "2025-03-11T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2024-02-02T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.518Z",
-        "daysOnMarket": 529,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "581752",
+        "createdDate": "2025-03-12T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:56:31.846Z",
+        "daysOnMarket": 129,
+        "mlsName": "CapeMay",
+        "mlsNumber": "250706",
         "listingAgent": {
-            "name": "Max Fischer",
-            "phone": "6098224200",
-            "email": "max.fischer@foxroach.com",
-            "website": "http://maxfischer.foxroach.com"
+            "name": "William Bezaire",
+            "phone": "6098848428",
+            "email": "bill@cbcapemay.com",
+            "website": "http://cbcapemay.com"
         },
         "listingOffice": {
-            "name": "BHHS Fox & Roach Margate",
-            "email": "clientservices@foxroach.com",
-            "website": "https://margate.foxroach.com"
+            "name": "Coldwell Banker Sol Needles Real Estate",
+            "phone": "6098848428",
+            "email": "realestate@cbcapemay.com",
+            "website": "http://www.cbcapemay.com"
         },
         "history": {
-            "2024-02-01": {
+            "2025-03-11": {
                 "event": "Sale Listing",
-                "price": 265900,
+                "price": 899000,
                 "listingType": "Standard",
-                "listedDate": "2024-02-01T00:00:00.000Z",
+                "listedDate": "2025-03-11T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 529
+                "daysOnMarket": 129
             }
         }
     },
     {
-        "id": "925-Atlantic-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "925 Atlantic Ave, Atlantic City, NJ 08401",
-        "addressLine1": "925 Atlantic Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
+        "id": "1122-Sunnyside-Dr,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "1122 Sunnyside Dr, North, Cape May, NJ 08204",
+        "addressLine1": "1122 Sunnyside Dr",
+        "addressLine2": "North",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.36462,
-        "longitude": -74.422852,
-        "propertyType": "Multi-Family",
-        "bedrooms": 28,
-        "squareFootage": 18000,
-        "lotSize": 6210,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.982831,
+        "longitude": -74.934458,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1399,
+        "lotSize": 8000,
+        "yearBuilt": 1991,
         "status": "Active",
-        "price": 1500000,
+        "price": 425000,
         "listingType": "Standard",
-        "listedDate": "2024-03-22T00:00:00.000Z",
+        "listedDate": "2025-04-03T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2021-05-12T16:11:22.899Z",
-        "lastSeenDate": "2025-07-13T11:54:17.516Z",
-        "daysOnMarket": 479,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "583429",
+        "createdDate": "2024-03-19T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:31:41.566Z",
+        "daysOnMarket": 106,
+        "mlsName": "CapeMay",
+        "mlsNumber": "250987",
         "listingAgent": {
-            "name": "Gerard Barker",
-            "phone": "6093984400",
-            "email": "jerseydeviljb@gmail.com"
+            "name": "Richard Shore",
+            "phone": "8562285151",
+            "email": "rshore@procisionbb.com"
         },
         "listingOffice": {
-            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
-            "phone": "6093446200",
-            "email": "john@weichertoc.com",
-            "website": "www.weichertoc.com"
+            "name": "Procision Commercial Realty",
+            "phone": "8562285151",
+            "email": "richshore@realestatemanagementadvisors.com"
         },
         "history": {
-            "2024-03-22": {
+            "2024-03-18": {
                 "event": "Sale Listing",
-                "price": 1500000,
+                "price": 435000,
                 "listingType": "Standard",
-                "listedDate": "2024-03-22T00:00:00.000Z",
+                "listedDate": "2024-03-18T00:00:00.000Z",
+                "removedDate": "2025-01-26T00:00:00.000Z",
+                "daysOnMarket": 314
+            },
+            "2025-04-03": {
+                "event": "Sale Listing",
+                "price": 425000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-03T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 479
+                "daysOnMarket": 106
             }
         }
     },
     {
-        "id": "12-N-Massachusetts-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "12 N Massachusetts Ave, Atlantic City, NJ 08401",
-        "addressLine1": "12 N Massachusetts Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
+        "id": "221-Sunset-Blvd,-West,-Cape-May,-NJ-08204",
+        "formattedAddress": "221 Sunset Blvd, West, Cape May, NJ 08204",
+        "addressLine1": "221 Sunset Blvd",
+        "addressLine2": "West",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.367036,
-        "longitude": -74.417301,
-        "propertyType": "Land",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.936283,
+        "longitude": -74.934723,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1548,
+        "lotSize": 15000,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 2000000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-04-21T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:31:41.541Z",
+        "daysOnMarket": 108,
+        "mlsName": "CapeMay",
+        "mlsNumber": "250955",
+        "listingAgent": {
+            "name": "Michael B Kearney",
+            "phone": "5706560832",
+            "email": "capemaymbk@gmail.com",
+            "website": "https://www.linkedin.com/in/michaelbkearney/"
+        },
+        "listingOffice": {
+            "name": "FARRELL REALTY",
+            "phone": "6098860010",
+            "email": "office@farrellrealtycapemay.com",
+            "website": "http://farrellrealtycapemay.com"
+        },
+        "history": {
+            "2025-04-01": {
+                "event": "Sale Listing",
+                "price": 2000000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 108
+            }
+        }
+    },
+    {
+        "id": "716-Gorham-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "716 Gorham Ave, Cape May, NJ 08204",
+        "addressLine1": "716 Gorham Ave",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.973866,
+        "longitude": -74.944802,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 990,
+        "yearBuilt": 1962,
+        "status": "Active",
+        "price": 410000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-27T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:31:41.524Z",
+        "daysOnMarket": 113,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2004910",
+        "listingAgent": {
+            "name": "Cynthia Kaczmarski",
+            "phone": "6093911009",
+            "email": "cynthia.kaczmarski@compass.com"
+        },
+        "listingOffice": {
+            "name": "Compass New Jersey, LLC",
+            "phone": "6093227390"
+        },
+        "history": {
+            "2025-03-27": {
+                "event": "Sale Listing",
+                "price": 410000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 113
+            }
+        }
+    },
+    {
+        "id": "202-Ocean-St,-Cape-May,-NJ-08204",
+        "formattedAddress": "202 Ocean St, Cape May, NJ 08204",
+        "addressLine1": "202 Ocean St",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.932417,
+        "longitude": -74.921168,
+        "propertyType": "Single Family",
+        "bedrooms": 9,
+        "bathrooms": 9,
         "lotSize": 3920,
+        "yearBuilt": 1890,
         "status": "Active",
-        "price": 100000,
+        "price": 4490000,
         "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
+        "listedDate": "2025-03-27T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2022-04-10T06:48:56.746Z",
-        "lastSeenDate": "2025-07-13T11:54:17.512Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584385",
+        "createdDate": "2021-08-31T14:14:22.758Z",
+        "lastSeenDate": "2025-07-17T08:31:41.517Z",
+        "daysOnMarket": 113,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2004920",
         "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
+            "name": "George Kelly",
+            "phone": "8564707425",
+            "email": "georgekelly@kw.com"
         },
         "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
+            "name": "Keller Williams - Main Street",
+            "phone": "8568582200",
+            "email": "mainstreetbc943@gmail.com",
+            "website": "https://kwwashingtontownship.yourkwoffice.com/"
         },
         "history": {
-            "2024-04-21": {
+            "2024-06-24": {
                 "event": "Sale Listing",
-                "price": 100000,
+                "price": 3950000,
                 "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
+                "listedDate": "2024-06-24T00:00:00.000Z",
+                "removedDate": "2024-10-01T00:00:00.000Z",
+                "daysOnMarket": 99
+            },
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 4750000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": "2025-02-20T00:00:00.000Z",
+                "daysOnMarket": 124
+            },
+            "2025-03-27": {
+                "event": "Sale Listing",
+                "price": 4490000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-27T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 449
+                "daysOnMarket": 113
             }
         }
     },
     {
-        "id": "20-N-Massachusetts-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "20 N Massachusetts Ave, Atlantic City, NJ 08401",
-        "addressLine1": "20 N Massachusetts Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
+        "id": "111-Leaming-Ave,-West,-Cape-May,-NJ-08204",
+        "formattedAddress": "111 Leaming Ave, West, Cape May, NJ 08204",
+        "addressLine1": "111 Leaming Ave",
+        "addressLine2": "West",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.367242,
-        "longitude": -74.41744,
-        "propertyType": "Land",
-        "lotSize": 3049,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.940895,
+        "longitude": -74.929744,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2145,
+        "lotSize": 7400,
+        "yearBuilt": 1870,
         "status": "Active",
-        "price": 75000,
+        "price": 1279000,
         "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
+        "listedDate": "2025-04-14T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2022-04-10T06:23:15.314Z",
-        "lastSeenDate": "2025-07-13T11:54:17.511Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584384",
+        "createdDate": "2025-04-15T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:31:41.447Z",
+        "daysOnMarket": 95,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251104",
         "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
+            "name": "Edward Connolly",
+            "phone": "6098845005",
+            "email": "edbythesea@comcast.net",
+            "website": "http://coastlinerealty.com"
         },
         "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
+            "name": "Coastline Realty,LLC",
+            "phone": "6098845005",
+            "email": "info@coastlinerealty.com",
+            "website": "http://www.coastlinerealty.com"
         },
         "history": {
-            "2024-04-21": {
+            "2025-04-14": {
                 "event": "Sale Listing",
-                "price": 75000,
+                "price": 1279000,
                 "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
+                "listedDate": "2025-04-14T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 449
+                "daysOnMarket": 95
             }
         }
     },
     {
-        "id": "36-N-Massachusetts-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "36 N Massachusetts Ave, Atlantic City, NJ 08401",
-        "addressLine1": "36 N Massachusetts Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
+        "id": "226-Joanne-St,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "226 Joanne St, North, Cape May, NJ 08204",
+        "addressLine1": "226 Joanne St",
+        "addressLine2": "North",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.36761,
-        "longitude": -74.417652,
-        "propertyType": "Land",
-        "lotSize": 2178,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.99,
+        "longitude": -74.941428,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1655,
+        "lotSize": 6000,
+        "yearBuilt": 1983,
         "status": "Active",
-        "price": 75000,
+        "price": 564900,
         "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
+        "listedDate": "2025-04-15T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2022-04-10T06:23:15.315Z",
-        "lastSeenDate": "2025-07-13T11:54:17.511Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584389",
+        "createdDate": "2025-05-21T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:31:41.435Z",
+        "daysOnMarket": 94,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251117",
         "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
+            "name": "Brian Groetsch",
+            "phone": "6098844242",
+            "email": "bgroetsch@remax.net",
+            "website": "http://www.capemay4sale.com"
         },
         "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
+            "name": "RE MAX Surfside",
+            "phone": "6098844242",
+            "email": "info@surfsidecapemay.com",
+            "website": "http://www.surfsidecapemay.com"
         },
         "history": {
-            "2024-04-21": {
+            "2025-04-15": {
                 "event": "Sale Listing",
-                "price": 75000,
+                "price": 564900,
                 "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
+                "listedDate": "2025-04-15T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 449
+                "daysOnMarket": 94
             }
         }
     },
     {
-        "id": "35-N-Congress-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "35 N Congress Ave, Atlantic City, NJ 08401",
-        "addressLine1": "35 N Congress Ave",
+        "id": "1840-Maryland-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "1840 Maryland Ave, Cape May, NJ 08204",
+        "addressLine1": "1840 Maryland Ave",
         "addressLine2": null,
-        "city": "Atlantic City",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.36757,
-        "longitude": -74.417977,
-        "propertyType": "Land",
-        "lotSize": 2178,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.939908,
+        "longitude": -74.891987,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "lotSize": 6250,
+        "yearBuilt": 1980,
         "status": "Active",
-        "price": 75000,
+        "price": 2050000,
         "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
+        "listedDate": "2025-04-16T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2022-04-10T06:23:15.314Z",
-        "lastSeenDate": "2025-07-13T11:54:17.510Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584382",
+        "createdDate": "2025-04-17T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:31:41.433Z",
+        "daysOnMarket": 93,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251128",
         "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
+            "name": "William Bezaire",
+            "phone": "6098848428",
+            "email": "bill@cbcapemay.com",
+            "website": "http://cbcapemay.com"
         },
         "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
+            "name": "Coldwell Banker Sol Needles Real Estate",
+            "phone": "6098848428",
+            "email": "realestate@cbcapemay.com",
+            "website": "http://www.cbcapemay.com"
         },
         "history": {
-            "2024-04-21": {
+            "2025-04-16": {
                 "event": "Sale Listing",
-                "price": 75000,
+                "price": 2050000,
                 "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
+                "listedDate": "2025-04-16T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 449
+                "daysOnMarket": 93
             }
         }
     },
     {
-        "id": "119-N-New-Hampshire-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "119 N New Hampshire Ave, Atlantic City, NJ 08401",
-        "addressLine1": "119 N New Hampshire Ave",
+        "id": "1842-Maryland-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "1842 Maryland Ave, Cape May, NJ 08204",
+        "addressLine1": "1842 Maryland Ave",
         "addressLine2": null,
-        "city": "Atlantic City",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.370169,
-        "longitude": -74.413864,
-        "propertyType": "Townhouse",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.939947,
+        "longitude": -74.891813,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "lotSize": 6250,
+        "yearBuilt": 1980,
+        "status": "Active",
+        "price": 2350000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-17T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:31:41.429Z",
+        "daysOnMarket": 93,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251129",
+        "listingAgent": {
+            "name": "William Bezaire",
+            "phone": "6098848428",
+            "email": "bill@cbcapemay.com",
+            "website": "http://cbcapemay.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Sol Needles Real Estate",
+            "phone": "6098848428",
+            "email": "realestate@cbcapemay.com",
+            "website": "http://www.cbcapemay.com"
+        },
+        "history": {
+            "2025-04-16": {
+                "event": "Sale Listing",
+                "price": 2350000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 93
+            }
+        }
+    },
+    {
+        "id": "615-Beach-Dr,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "615 Beach Dr, North, Cape May, NJ 08204",
+        "addressLine1": "615 Beach Dr",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.976888,
+        "longitude": -74.96045,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "squareFootage": 2899,
+        "lotSize": 7500,
+        "yearBuilt": 2010,
+        "status": "Active",
+        "price": 1998000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-17T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T08:31:41.425Z",
+        "daysOnMarket": 93,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251135",
+        "listingAgent": {
+            "name": "Dagmer Chew",
+            "phone": "6098841888",
+            "email": "info@homesteadrealestate.net",
+            "website": "http://www.homesteadcapemay.com"
+        },
+        "listingOffice": {
+            "name": "HOMESTEAD REAL ESTATE COMPANY INC.",
+            "phone": "6098841888",
+            "email": "dagmerchew@homesteadrealestate.net",
+            "website": "http://www.homesteadcapemay.com"
+        },
+        "history": {
+            "2025-04-16": {
+                "event": "Sale Listing",
+                "price": 1998000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 93
+            }
+        }
+    },
+    {
+        "id": "717-Third-Ave,-West,-Cape-May,-NJ-08204",
+        "formattedAddress": "717 Third Ave, West, Cape May, NJ 08204",
+        "addressLine1": "717 Third Ave",
+        "addressLine2": "West",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.940791,
+        "longitude": -74.943882,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "squareFootage": 1325,
+        "lotSize": 15800,
+        "yearBuilt": 1969,
+        "status": "Active",
+        "price": 1300000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-24T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:55:51.601Z",
+        "daysOnMarket": 91,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251172",
+        "listingAgent": {
+            "name": "Jackson Vonsavage",
+            "phone": "6098279770",
+            "email": "jvonsavage@gmail.com"
+        },
+        "listingOffice": {
+            "name": "HOFFMAN AGENCY",
+            "phone": "6095228177",
+            "email": "hoffmanagency@snip.net",
+            "website": "http://www.hoffmanagencies.com"
+        },
+        "history": {
+            "2024-07-23": {
+                "event": "Sale Listing",
+                "price": 1445000,
+                "listingType": "Standard",
+                "listedDate": "2024-07-23T00:00:00.000Z",
+                "removedDate": "2024-12-18T00:00:00.000Z",
+                "daysOnMarket": 148
+            },
+            "2025-04-18": {
+                "event": "Sale Listing",
+                "price": 1300000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 91
+            }
+        }
+    },
+    {
+        "id": "29-Summer-Cir,-Cape-May,-NJ-08204",
+        "formattedAddress": "29 Summer Cir, Cape May, NJ 08204",
+        "addressLine1": "29 Summer Cir",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.978175,
+        "longitude": -74.930147,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1219,
+        "lotSize": 14375,
+        "yearBuilt": 1998,
+        "hoa": {
+            "fee": 8
+        },
+        "status": "Active",
+        "price": 629000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-19T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:55:51.599Z",
+        "daysOnMarket": 90,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2005080",
+        "listingAgent": {
+            "name": "Gail Wilsey-morrison",
+            "phone": "6096020405",
+            "email": "gailwilsey@gmail.com",
+            "website": "https://www.longandfoster.com/gailwilseymorrison"
+        },
+        "listingOffice": {
+            "name": "Long & Foster Real Estate, Inc.",
+            "phone": "6098841007"
+        },
+        "history": {
+            "2025-04-19": {
+                "event": "Sale Listing",
+                "price": 629000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 90
+            }
+        }
+    },
+    {
+        "id": "942-Carol-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "942 Carol Ave, Cape May, NJ 08204",
+        "addressLine1": "942 Carol Ave",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 39.00502103,
+        "longitude": -74.88031176,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 2401,
+        "lotSize": 10019,
+        "yearBuilt": 2025,
+        "status": "Active",
+        "price": 649990,
+        "listingType": "New Construction",
+        "listedDate": "2025-04-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-29T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:55:51.582Z",
+        "daysOnMarket": 81,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2005146",
+        "listingAgent": {
+            "name": "Randi Jobes",
+            "phone": "6095791158",
+            "email": "rayoshioka@drhorton.com"
+        },
+        "listingOffice": {
+            "name": "Grande Realty",
+            "phone": "8562303005",
+            "email": "newjerseymarketing@drhorton.com",
+            "website": "http://www.drhorton.com/"
+        },
+        "history": {
+            "2025-04-28": {
+                "event": "Sale Listing",
+                "price": 649990,
+                "listingType": "New Construction",
+                "listedDate": "2025-04-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 81
+            }
+        }
+    },
+    {
+        "id": "711-Beach-Dr,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "711 Beach Dr, North, Cape May, NJ 08204",
+        "addressLine1": "711 Beach Dr",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.975177,
+        "longitude": -74.960751,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 5.5,
+        "lotSize": 7775,
+        "yearBuilt": 2025,
+        "status": "Active",
+        "price": 3495000,
+        "listingType": "New Construction",
+        "listedDate": "2025-04-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-05-03T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:55:51.562Z",
+        "daysOnMarket": 83,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251235",
+        "listingAgent": {
+            "name": "Hanson James",
+            "phone": "6093740255",
+            "email": "jimhanson1@comcast.net"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Sol Needles Real Estate",
+            "phone": "6098848428",
+            "email": "realestate@cbcapemay.com",
+            "website": "http://www.cbcapemay.com"
+        },
+        "history": {
+            "2025-04-26": {
+                "event": "Sale Listing",
+                "price": 3495000,
+                "listingType": "New Construction",
+                "listedDate": "2025-04-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 83
+            }
+        }
+    },
+    {
+        "id": "711-Beach-Dr,-Cape-May,-NJ-08204",
+        "formattedAddress": "711 Beach Dr, Cape May, NJ 08204",
+        "addressLine1": "711 Beach Dr",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.975177,
+        "longitude": -74.960751,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 5.5,
+        "squareFootage": 2852,
+        "lotSize": 7841,
+        "yearBuilt": 2025,
+        "status": "Active",
+        "price": 3495000,
+        "listingType": "New Construction",
+        "listedDate": "2025-04-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-27T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:55:51.551Z",
+        "daysOnMarket": 83,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2005086",
+        "listingAgent": {
+            "name": "James Hanson",
+            "phone": "6098849185",
+            "email": "jimhanson1@comcast.net",
+            "website": "info@appraisenewjersey.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Sol Needles Real Estate",
+            "phone": "6098848428"
+        },
+        "history": {
+            "2025-04-26": {
+                "event": "Sale Listing",
+                "price": 3495000,
+                "listingType": "New Construction",
+                "listedDate": "2025-04-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 83
+            }
+        }
+    },
+    {
+        "id": "1736-New-York-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "1736 New York Ave, Cape May, NJ 08204",
+        "addressLine1": "1736 New York Ave",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.938372,
+        "longitude": -74.893487,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "lotSize": 28275,
+        "yearBuilt": 1985,
+        "status": "Active",
+        "price": 6495000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-03T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:55:51.516Z",
+        "daysOnMarket": 77,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251301",
+        "listingAgent": {
+            "name": "Dolores Lanzalotti",
+            "phone": "6092265000",
+            "email": "dee@jerseycaperealty.com",
+            "website": "http://www.jerseycaperealty.com"
+        },
+        "listingOffice": {
+            "name": "Jersey Cape Realty, Inc.",
+            "phone": "6098845800",
+            "email": "info@jerseycaperealty.com",
+            "website": "http://www.jerseycaperealty.com"
+        },
+        "history": {
+            "2025-05-02": {
+                "event": "Sale Listing",
+                "price": 6495000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 77
+            }
+        }
+    },
+    {
+        "id": "506-Broadway,-West,-Cape-May,-NJ-08204",
+        "formattedAddress": "506 Broadway, West, Cape May, NJ 08204",
+        "addressLine1": "506 Broadway",
+        "addressLine2": "West",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.939727,
+        "longitude": -74.930465,
+        "propertyType": "Single Family",
         "bedrooms": 3,
         "bathrooms": 1.5,
-        "squareFootage": 1560,
-        "lotSize": 1742,
-        "yearBuilt": 2000,
+        "lotSize": 6634,
+        "yearBuilt": 1910,
         "status": "Active",
-        "price": 429900,
+        "price": 1384000,
         "listingType": "Standard",
-        "listedDate": "2024-08-22T00:00:00.000Z",
+        "listedDate": "2025-05-10T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2024-08-20T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.510Z",
-        "daysOnMarket": 326,
-        "mlsName": "BrightMLS",
-        "mlsNumber": "NJAC2013796",
+        "createdDate": "2022-06-06T13:35:06.326Z",
+        "lastSeenDate": "2025-07-17T07:35:21.753Z",
+        "daysOnMarket": 69,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251383",
         "listingAgent": {
-            "name": "Georgeanna \"Tracey\" Newmones",
-            "phone": "8662016210",
-            "email": "tracey@acrealtors.com",
-            "website": "https://www.acrealtors.com/"
+            "name": "Todd H. Desatnick",
+            "phone": "6097802033",
+            "email": "tdesatnick@desatnickrealestate.com",
+            "website": "http://www.desatnickrealestate.com"
+        },
+        "listingOffice": {
+            "name": "DESATNICK REAL ESTATE, L.L.C.",
+            "phone": "6098841300",
+            "email": "tdesatnick@desatnickrealestate.com",
+            "website": "http://www.desatnickrealestate.com"
+        },
+        "history": {
+            "2025-05-10": {
+                "event": "Sale Listing",
+                "price": 1384000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 69
+            }
+        }
+    },
+    {
+        "id": "4-Cape-Woods-Rd,-Cape-May,-NJ-08204",
+        "formattedAddress": "4 Cape Woods Rd, Cape May, NJ 08204",
+        "addressLine1": "4 Cape Woods Rd",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.985126,
+        "longitude": -74.926841,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1722,
+        "yearBuilt": 1988,
+        "status": "Active",
+        "price": 599900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-21T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:35:21.619Z",
+        "daysOnMarket": 60,
+        "mlsName": "NewJerseyMLS",
+        "mlsNumber": "25016884",
+        "listingAgent": {
+            "name": "Melissa Florance",
+            "phone": "9738094401",
+            "email": "melissalynchrealtor@gmail.com"
+        },
+        "listingOffice": {
+            "name": "REALTY EXECUTIVES EXCEPTIONAL",
+            "phone": "9733055880",
+            "email": "clientcare@realtyexecutives.com",
+            "website": "https://www.rexexceptional.com/"
+        },
+        "history": {
+            "2025-05-19": {
+                "event": "Sale Listing",
+                "price": 599900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 60
+            }
+        }
+    },
+    {
+        "id": "4-Cape-Woods-Rd,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "4 Cape Woods Rd, North, Cape May, NJ 08204",
+        "addressLine1": "4 Cape Woods Rd",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.985126,
+        "longitude": -74.926841,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1722,
+        "lotSize": 10890,
+        "yearBuilt": 1988,
+        "hoa": {
+            "fee": 8
+        },
+        "status": "Active",
+        "price": 599900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-18T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:35:21.618Z",
+        "daysOnMarket": 62,
+        "mlsName": "MoreMLS",
+        "mlsNumber": "22514584",
+        "listingAgent": {
+            "name": "Melissa M Florance-lynch",
+            "phone": "9733055880",
+            "email": "melissaflorance-lynch@realtyexecutives.com"
+        },
+        "listingOffice": {
+            "name": "Realty Executives Exceptional Pompton Plains",
+            "phone": "9733055880",
+            "email": "kyleposkitt@realtyexecutives.com"
+        },
+        "history": {
+            "2025-05-17": {
+                "event": "Sale Listing",
+                "price": 599900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 62
+            }
+        }
+    },
+    {
+        "id": "200-Suzanne-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "200 Suzanne Ave, North, Cape May, NJ 08204",
+        "addressLine1": "200 Suzanne Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.986714,
+        "longitude": -74.941334,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 1445,
+        "lotSize": 7000,
+        "yearBuilt": 1975,
+        "status": "Active",
+        "price": 549900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-20T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:35:21.612Z",
+        "daysOnMarket": 60,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251467",
+        "listingAgent": {
+            "name": "Donna Leyland - Remax At The Shore",
+            "phone": "6097297300",
+            "email": "dleyland@aol.com",
+            "website": "http://www.dleyland.remax-nj.com/"
+        },
+        "listingOffice": {
+            "name": "Coastal Elite Realty",
+            "phone": "6095231112",
+            "email": "dan@wrcoastal.com",
+            "website": "www.wrcoastal.com"
+        },
+        "history": {
+            "2025-05-19": {
+                "event": "Sale Listing",
+                "price": 549900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 60
+            }
+        }
+    },
+    {
+        "id": "14-Freedom-Dr,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "14 Freedom Dr, North, Cape May, NJ 08204",
+        "addressLine1": "14 Freedom Dr",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.997833,
+        "longitude": -74.922266,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 2173,
+        "lotSize": 16000,
+        "yearBuilt": 1991,
+        "status": "Active",
+        "price": 635000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-09T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:35:21.570Z",
+        "daysOnMarket": 61,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251461",
+        "listingAgent": {
+            "name": "Jennifer Collins",
+            "phone": "6098841800",
+            "email": "c21jcolllins@gmail.com",
+            "website": "https://www.century21.com/real-estate-agent/profile/jennifer-collins-p80085131"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 Gilmartin & Company",
+            "phone": "6098841800",
+            "email": "c21capemay@gmail.com",
+            "website": "http://www.capemayvacations.com/"
+        },
+        "history": {
+            "2025-05-18": {
+                "event": "Sale Listing",
+                "price": 635000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 61
+            }
+        }
+    },
+    {
+        "id": "3108-Hemlock-Rd,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "3108 Hemlock Rd, North, Cape May, NJ 08204",
+        "addressLine1": "3108 Hemlock Rd",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.998387,
+        "longitude": -74.938035,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 2530,
+        "lotSize": 15600,
+        "yearBuilt": 1971,
+        "status": "Active",
+        "price": 595000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-06T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:18:57.736Z",
+        "daysOnMarket": 43,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251626",
+        "listingAgent": {
+            "name": "Connor Eckel",
+            "phone": "6097419661",
+            "email": "ceckel@desatnickrealestate.com"
+        },
+        "listingOffice": {
+            "name": "DESATNICK REAL ESTATE, L.L.C.",
+            "phone": "6098841300",
+            "email": "tdesatnick@desatnickrealestate.com",
+            "website": "http://www.desatnickrealestate.com"
+        },
+        "history": {
+            "2025-06-05": {
+                "event": "Sale Listing",
+                "price": 595000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 43
+            }
+        }
+    },
+    {
+        "id": "127-Myrtle-Ave,-West,-Cape-May,-NJ-08204",
+        "formattedAddress": "127 Myrtle Ave, West, Cape May, NJ 08204",
+        "addressLine1": "127 Myrtle Ave",
+        "addressLine2": "West",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.935459,
+        "longitude": -74.929402,
+        "propertyType": "Single Family",
+        "bedrooms": 12,
+        "bathrooms": 11.5,
+        "squareFootage": 5606,
+        "lotSize": 17933,
+        "yearBuilt": 1898,
+        "status": "Active",
+        "price": 3700000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-20T20:53:24.024Z",
+        "lastSeenDate": "2025-07-17T07:18:57.731Z",
+        "daysOnMarket": 35,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251718",
+        "listingAgent": {
+            "name": "Mahaney Jr Edward",
+            "phone": "6098845005",
+            "email": "info@coastlinerealty.com"
+        },
+        "listingOffice": {
+            "name": "Coastline Realty,LLC",
+            "phone": "6098845005",
+            "email": "info@coastlinerealty.com",
+            "website": "http://www.coastlinerealty.com"
+        },
+        "history": {
+            "2025-06-13": {
+                "event": "Sale Listing",
+                "price": 3700000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "225-227-Windsor-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "225-227 Windsor Ave, Cape May, NJ 08204",
+        "addressLine1": "225-227 Windsor Ave",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.932468,
+        "longitude": -74.92765,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3.5,
+        "squareFootage": 2340,
+        "lotSize": 6016,
+        "yearBuilt": 1980,
+        "status": "Active",
+        "price": 2999000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-03T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:18:57.727Z",
+        "daysOnMarket": 46,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251595",
+        "listingAgent": {
+            "name": "Kaitlyn Arenberg",
+            "email": "karenberg@homesteadrealestate.net"
+        },
+        "listingOffice": {
+            "name": "SEA HAVEN REAL ESTATE",
+            "phone": "6098543342",
+            "email": "kaitlyn@seahavenrealestate.com"
+        },
+        "history": {
+            "2025-06-02": {
+                "event": "Sale Listing",
+                "price": 2999000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 46
+            }
+        }
+    },
+    {
+        "id": "113-Heidi-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "113 Heidi Ave, North, Cape May, NJ 08204",
+        "addressLine1": "113 Heidi Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.988311,
+        "longitude": -74.938976,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1700,
+        "lotSize": 6600,
+        "yearBuilt": 1981,
+        "status": "Active",
+        "price": 499999,
+        "listingType": "Standard",
+        "listedDate": "2025-06-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-12T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:18:57.710Z",
+        "daysOnMarket": 38,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251687",
+        "listingAgent": {
+            "name": "Hall Gerard",
+            "phone": "6094259205",
+            "email": "ghall@wrcoastal.com",
+            "website": "http://www.wrcoastal.com"
+        },
+        "listingOffice": {
+            "name": "Coastal Elite Realty",
+            "phone": "6095231112",
+            "email": "dan@wrcoastal.com",
+            "website": "www.wrcoastal.com"
+        },
+        "history": {
+            "2025-06-10": {
+                "event": "Sale Listing",
+                "price": 499999,
+                "listingType": "Standard",
+                "listedDate": "2025-06-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 38
+            }
+        }
+    },
+    {
+        "id": "407-First-Ave,-West,-Cape-May,-NJ-08204",
+        "formattedAddress": "407 First Ave, West, Cape May, NJ 08204",
+        "addressLine1": "407 First Ave",
+        "addressLine2": "West",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.934872,
+        "longitude": -74.932075,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1212,
+        "lotSize": 7200,
+        "yearBuilt": 1970,
+        "status": "Active",
+        "price": 1595000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-03-28T12:07:31.635Z",
+        "lastSeenDate": "2025-07-17T07:18:57.667Z",
+        "daysOnMarket": 42,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251643",
+        "listingAgent": {
+            "name": "James Mcbride",
+            "phone": "6094083076",
+            "email": "jim@cbcapemay.com",
+            "website": "http://e.g. http://www.yourwebsite.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Sol Needles Real Estate",
+            "phone": "6098848428",
+            "email": "realestate@cbcapemay.com",
+            "website": "http://www.cbcapemay.com"
+        },
+        "history": {
+            "2025-06-06": {
+                "event": "Sale Listing",
+                "price": 1595000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 42
+            }
+        }
+    },
+    {
+        "id": "236-Roseann-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "236 Roseann Ave, North, Cape May, NJ 08204",
+        "addressLine1": "236 Roseann Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.988418,
+        "longitude": -74.944647,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1365,
+        "lotSize": 8100,
+        "yearBuilt": 1975,
+        "status": "Active",
+        "price": 525000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-07T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:18:57.656Z",
+        "daysOnMarket": 42,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251652",
+        "listingAgent": {
+            "name": "Teri Bassett",
+            "phone": "6095221212",
+            "email": "tbassettevan@gmail.com",
+            "website": "http://www.tbassett.c21anj.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 Alliance",
+            "phone": "6095221212",
+            "email": "john.koch@century21.com",
+            "website": "http://c21anj.com/office.php"
+        },
+        "history": {
+            "2025-06-06": {
+                "event": "Sale Listing",
+                "price": 525000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 42
+            }
+        }
+    },
+    {
+        "id": "1001-Scott-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "1001 Scott Ave, North, Cape May, NJ 08204",
+        "addressLine1": "1001 Scott Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.98152,
+        "longitude": -74.952529,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1216,
+        "lotSize": 8295,
+        "yearBuilt": 1977,
+        "status": "Active",
+        "price": 624900,
+        "listingType": "Standard",
+        "listedDate": "2025-06-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-14T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.895Z",
+        "daysOnMarket": 35,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251741",
+        "listingAgent": {
+            "name": "Anne Barry",
+            "phone": "6096023402",
+            "email": "annebarry@coastlinerealty.com",
+            "website": "http://www.coastlinerealty.com"
+        },
+        "listingOffice": {
+            "name": "Coastline Realty,LLC",
+            "phone": "6098845005",
+            "email": "info@coastlinerealty.com",
+            "website": "http://www.coastlinerealty.com"
+        },
+        "history": {
+            "2025-06-13": {
+                "event": "Sale Listing",
+                "price": 624900,
+                "listingType": "Standard",
+                "listedDate": "2025-06-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "217-Mindy-Ave,-Cape-May,-NJ-08204",
+        "formattedAddress": "217 Mindy Ave, Cape May, NJ 08204",
+        "addressLine1": "217 Mindy Ave",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.988659,
+        "longitude": -74.940976,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1504,
+        "lotSize": 6098,
+        "yearBuilt": 1982,
+        "status": "Active",
+        "price": 525000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-17T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.894Z",
+        "daysOnMarket": 32,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2005416",
+        "listingAgent": {
+            "name": "Alexis Mccarthy",
+            "phone": "8564493598",
+            "email": "alexis@rockstarjerseyshore.com"
         },
         "listingOffice": {
             "name": "EXP Realty, LLC",
@@ -494,1863 +2046,481 @@
             "website": "www.exprealty.com"
         },
         "history": {
-            "2024-08-22": {
-                "event": "Sale Listing",
-                "price": 429900,
-                "listingType": "Standard",
-                "listedDate": "2024-08-22T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 326
-            }
-        }
-    },
-    {
-        "id": "42-N-Massachusetts-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "42 N Massachusetts Ave, Atlantic City, NJ 08401",
-        "addressLine1": "42 N Massachusetts Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.367806,
-        "longitude": -74.417798,
-        "propertyType": "Land",
-        "lotSize": 3485,
-        "status": "Active",
-        "price": 75000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2022-04-10T06:23:15.313Z",
-        "lastSeenDate": "2025-07-13T11:54:17.509Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584387",
-        "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
-        },
-        "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
-        },
-        "history": {
-            "2024-04-21": {
-                "event": "Sale Listing",
-                "price": 75000,
-                "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 449
-            }
-        }
-    },
-    {
-        "id": "33-N-Congress-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "33 N Congress Ave, Atlantic City, NJ 08401",
-        "addressLine1": "33 N Congress Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.367506,
-        "longitude": -74.417909,
-        "propertyType": "Land",
-        "lotSize": 2178,
-        "status": "Active",
-        "price": 75000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2022-04-10T06:23:15.313Z",
-        "lastSeenDate": "2025-07-13T11:54:17.509Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584383",
-        "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
-        },
-        "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
-        },
-        "history": {
-            "2024-04-21": {
-                "event": "Sale Listing",
-                "price": 75000,
-                "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 449
-            }
-        }
-    },
-    {
-        "id": "38-N-Massachusetts-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "38 N Massachusetts Ave, Atlantic City, NJ 08401",
-        "addressLine1": "38 N Massachusetts Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.367697,
-        "longitude": -74.417735,
-        "propertyType": "Land",
-        "lotSize": 4792,
-        "status": "Active",
-        "price": 75000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2022-04-10T06:23:15.325Z",
-        "lastSeenDate": "2025-07-13T11:54:17.508Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584388",
-        "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
-        },
-        "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
-        },
-        "history": {
-            "2024-04-21": {
-                "event": "Sale Listing",
-                "price": 75000,
-                "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 449
-            }
-        }
-    },
-    {
-        "id": "14-18-N-Massachusetts-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "14-18 N Massachusetts Ave, Atlantic City, NJ 08401",
-        "addressLine1": "14-18 N Massachusetts Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.367185,
-        "longitude": -74.417402,
-        "propertyType": "Land",
-        "lotSize": 4792,
-        "status": "Active",
-        "price": 100000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2022-04-10T06:48:56.746Z",
-        "lastSeenDate": "2025-07-13T11:54:17.507Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584390",
-        "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
-        },
-        "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
-        },
-        "history": {
-            "2024-04-21": {
-                "event": "Sale Listing",
-                "price": 100000,
-                "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 449
-            }
-        }
-    },
-    {
-        "id": "414-Hobart-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "414 Hobart Ave, Atlantic City, NJ 08401",
-        "addressLine1": "414 Hobart Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.365505,
-        "longitude": -74.437571,
-        "propertyType": "Land",
-        "lotSize": 10454,
-        "status": "Active",
-        "price": 75000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-03-24T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.507Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584381",
-        "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
-        },
-        "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
-        },
-        "history": {
-            "2024-04-21": {
-                "event": "Sale Listing",
-                "price": 75000,
-                "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 449
-            }
-        }
-    },
-    {
-        "id": "1818-Ontario-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "1818 Ontario Ave, Atlantic City, NJ 08401",
-        "addressLine1": "1818 Ontario Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.370073,
-        "longitude": -74.440932,
-        "propertyType": "Single Family",
-        "bedrooms": 4,
-        "bathrooms": 2,
-        "lotSize": 2500,
-        "status": "Active",
-        "price": 224000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-07-31T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.502Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584396",
-        "listingAgent": {
-            "name": "Sala Uddin",
-            "phone": "6095686005",
-            "email": "sala0018@yahoo.com"
-        },
-        "listingOffice": {
-            "name": "Vylla Home - Atlantic City",
-            "phone": "6094286647"
-        },
-        "history": {
-            "2024-04-21": {
-                "event": "Sale Listing",
-                "price": 224000,
-                "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 449
-            }
-        }
-    },
-    {
-        "id": "507-Oriental-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "507 Oriental Ave, Atlantic City, NJ 08401",
-        "addressLine1": "507 Oriental Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.364041,
-        "longitude": -74.415485,
-        "propertyType": "Land",
-        "lotSize": 3944,
-        "status": "Active",
-        "price": 99000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-23T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-04-24T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.501Z",
-        "daysOnMarket": 447,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584479",
-        "listingAgent": {
-            "name": "James Abbott",
-            "phone": "6098224200",
-            "email": "james.abbott@foxroach.com",
-            "website": "http://jamesabbott.foxroach.com/"
-        },
-        "listingOffice": {
-            "name": "BHHS Fox & Roach Margate",
-            "email": "clientservices@foxroach.com",
-            "website": "https://margate.foxroach.com"
-        },
-        "history": {
-            "2024-04-23": {
-                "event": "Sale Listing",
-                "price": 99000,
-                "listingType": "Standard",
-                "listedDate": "2024-04-23T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 447
-            }
-        }
-    },
-    {
-        "id": "65-S-Congress-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "65 S Congress Ave, Atlantic City, NJ 08401",
-        "addressLine1": "65 S Congress Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.365441,
-        "longitude": -74.416539,
-        "propertyType": "Land",
-        "lotSize": 885,
-        "status": "Active",
-        "price": 10000,
-        "listingType": "Standard",
-        "listedDate": "2024-05-08T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-05-09T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.497Z",
-        "daysOnMarket": 432,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584979",
-        "listingAgent": {
-            "name": "James Abbott",
-            "phone": "6098224200",
-            "email": "james.abbott@foxroach.com",
-            "website": "http://jamesabbott.foxroach.com/"
-        },
-        "listingOffice": {
-            "name": "BHHS Fox & Roach Margate",
-            "email": "clientservices@foxroach.com",
-            "website": "https://margate.foxroach.com"
-        },
-        "history": {
-            "2024-05-08": {
-                "event": "Sale Listing",
-                "price": 10000,
-                "listingType": "Standard",
-                "listedDate": "2024-05-08T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 432
-            }
-        }
-    },
-    {
-        "id": "3101-Boardwalk,-Unit-1702A,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "3101 Boardwalk, Unit 1702A, Atlantic City, NJ 08401",
-        "addressLine1": "3101 Boardwalk",
-        "addressLine2": "Unit 1702A",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.351439,
-        "longitude": -74.448051,
-        "propertyType": "Condo",
-        "bedrooms": 1,
-        "bathrooms": 1.5,
-        "squareFootage": 872,
-        "hoa": {
-            "fee": 868
-        },
-        "status": "Active",
-        "price": 229000,
-        "listingType": "Standard",
-        "listedDate": "2024-05-30T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-05-31T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.497Z",
-        "daysOnMarket": 410,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "585684",
-        "listingAgent": {
-            "name": "David Hirsch",
-            "phone": "6092149567",
-            "email": "david@acboardwalkrealty.com",
-            "website": "http://www.acboardwalkrealty.com"
-        },
-        "listingOffice": {
-            "name": "Boardwalk Realty",
-            "phone": "6093452062",
-            "email": "sales@acboardwalkrealty.com",
-            "website": "http://acboardwalkrealty.com"
-        },
-        "history": {
-            "2024-05-30": {
-                "event": "Sale Listing",
-                "price": 229000,
-                "listingType": "Standard",
-                "listedDate": "2024-05-30T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 410
-            }
-        }
-    },
-    {
-        "id": "7-Fairmount-Ter,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "7 Fairmount Ter, Atlantic City, NJ 08401",
-        "addressLine1": "7 Fairmount Ter",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.35871,
-        "longitude": -74.444316,
-        "propertyType": "Single Family",
-        "bedrooms": 3,
-        "bathrooms": 1,
-        "lotSize": 975,
-        "status": "Active",
-        "price": 160000,
-        "listingType": "Standard",
-        "listedDate": "2024-08-28T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-08-29T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.496Z",
-        "daysOnMarket": 320,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "588502",
-        "listingAgent": {
-            "name": "Paula Hartman",
-            "phone": "6092717337",
-            "email": "redheadedrealtor@aol.com",
-            "website": "https://hartmanhometeam.com/"
-        },
-        "listingOffice": {
-            "name": "BHHS Fox & Roach Margate",
-            "email": "clientservices@foxroach.com",
-            "website": "https://margate.foxroach.com"
-        },
-        "history": {
-            "2024-08-28": {
-                "event": "Sale Listing",
-                "price": 160000,
-                "listingType": "Standard",
-                "listedDate": "2024-08-28T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 320
-            }
-        }
-    },
-    {
-        "id": "114-N-California-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "114 N California Ave, Atlantic City, NJ 08401",
-        "addressLine1": "114 N California Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.357422,
-        "longitude": -74.445933,
-        "propertyType": "Land",
-        "lotSize": 1742,
-        "status": "Active",
-        "price": 25000,
-        "listingType": "Standard",
-        "listedDate": "2024-07-18T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-07-20T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.492Z",
-        "daysOnMarket": 361,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "587214",
-        "listingAgent": {
-            "name": "Marian King-smith",
-            "phone": "6098399083",
-            "email": "marianrealtor@hotmail.com",
-            "website": "http://mariankingsmith.com"
-        },
-        "listingOffice": {
-            "name": "Keller Williams Realty Atlantic Shore-Brig",
-            "phone": "6092667676",
-            "email": "klrw794@kw.com",
-            "website": "https://www.brigantinehomes.com/"
-        },
-        "history": {
-            "2024-07-18": {
-                "event": "Sale Listing",
-                "price": 25000,
-                "listingType": "Standard",
-                "listedDate": "2024-07-18T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 361
-            }
-        }
-    },
-    {
-        "id": "421-Carson-Ave,-Apt-2,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "421 Carson Ave, Apt 2, Atlantic City, NJ 08401",
-        "addressLine1": "421 Carson Ave",
-        "addressLine2": "Apt 2",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.376633,
-        "longitude": -74.422913,
-        "propertyType": "Condo",
-        "bedrooms": 2,
-        "bathrooms": 1,
-        "lotSize": 3400,
-        "status": "Active",
-        "price": 232500,
-        "listingType": "New Construction",
-        "listedDate": "2024-07-05T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-06-24T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.487Z",
-        "daysOnMarket": 374,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "586819",
-        "listingAgent": {
-            "name": "The Lepera Team",
-            "phone": "6095343430",
-            "email": "marie.lepera@foxroach.com",
-            "website": "http://www.theleperateam.com"
-        },
-        "listingOffice": {
-            "name": "BHHS Fox & Roach Brigantine",
-            "phone": "6092648444",
-            "email": "clientservices@foxroach.com",
-            "website": "https://brigantine.foxroach.com"
-        },
-        "history": {
-            "2024-07-05": {
-                "event": "Sale Listing",
-                "price": 232500,
-                "listingType": "New Construction",
-                "listedDate": "2024-07-05T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 374
-            }
-        }
-    },
-    {
-        "id": "421-Carson-Ave,-Apt-3,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "421 Carson Ave, Apt 3, Atlantic City, NJ 08401",
-        "addressLine1": "421 Carson Ave",
-        "addressLine2": "Apt 3",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.376633,
-        "longitude": -74.422913,
-        "propertyType": "Condo",
-        "bedrooms": 2,
-        "bathrooms": 1,
-        "lotSize": 3400,
-        "yearBuilt": 2024,
-        "status": "Active",
-        "price": 222500,
-        "listingType": "New Construction",
-        "listedDate": "2024-07-05T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-06-24T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.486Z",
-        "daysOnMarket": 374,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "586821",
-        "listingAgent": {
-            "name": "The Lepera Team",
-            "phone": "6095343430",
-            "email": "marie.lepera@foxroach.com",
-            "website": "http://www.theleperateam.com"
-        },
-        "listingOffice": {
-            "name": "BHHS Fox & Roach Brigantine",
-            "phone": "6092648444",
-            "email": "clientservices@foxroach.com",
-            "website": "https://brigantine.foxroach.com"
-        },
-        "history": {
-            "2024-07-05": {
-                "event": "Sale Listing",
-                "price": 222500,
-                "listingType": "New Construction",
-                "listedDate": "2024-07-05T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 374
-            }
-        }
-    },
-    {
-        "id": "3101-Boardwalk,-Ste-3208-2,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "3101 Boardwalk, Ste 3208-2, Atlantic City, NJ 08401",
-        "addressLine1": "3101 Boardwalk",
-        "addressLine2": "Ste 3208-2",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.351439,
-        "longitude": -74.448051,
-        "propertyType": "Condo",
-        "bedrooms": 1,
-        "bathrooms": 1.5,
-        "squareFootage": 911,
-        "yearBuilt": 1985,
-        "hoa": {
-            "fee": 907
-        },
-        "status": "Active",
-        "price": 350000,
-        "listingType": "Standard",
-        "listedDate": "2024-07-10T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2025-04-18T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.486Z",
-        "daysOnMarket": 369,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "586945",
-        "listingAgent": {
-            "name": "Terese Brittingham",
-            "phone": "6102120848",
-            "email": "teresekw@gmail.com",
-            "website": "https://kwseven.com"
-        },
-        "listingOffice": {
-            "name": "KELLER WILLIAMS REALTY JERSEY SHORE-Atlantic City",
-            "phone": "6093186636"
-        },
-        "history": {
-            "2024-07-10": {
-                "event": "Sale Listing",
-                "price": 350000,
-                "listingType": "Standard",
-                "listedDate": "2024-07-10T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 369
-            }
-        }
-    },
-    {
-        "id": "3817-Ventnor-Ave,-Apt-407,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "3817 Ventnor Ave, Apt 407, Atlantic City, NJ 08401",
-        "addressLine1": "3817 Ventnor Ave",
-        "addressLine2": "Apt 407",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.350752,
-        "longitude": -74.456872,
-        "propertyType": "Condo",
-        "bedrooms": 1,
-        "bathrooms": 1,
-        "squareFootage": 602,
-        "yearBuilt": 1950,
-        "hoa": {
-            "fee": 521
-        },
-        "status": "Active",
-        "price": 135000,
-        "listingType": "Standard",
-        "listedDate": "2024-08-06T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-08-07T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.481Z",
-        "daysOnMarket": 342,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "587787",
-        "listingAgent": {
-            "name": "Silvette Rivera",
-            "phone": "8562382082",
-            "email": "silvetterivera3@gmail.com",
-            "website": "https://silvetterivera.weichertshorehomes.com/"
-        },
-        "listingOffice": {
-            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
-            "phone": "6093446200",
-            "email": "john@weichertoc.com",
-            "website": "www.weichertoc.com"
-        },
-        "history": {
-            "2024-08-06": {
-                "event": "Sale Listing",
-                "price": 135000,
-                "listingType": "Standard",
-                "listedDate": "2024-08-06T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 342
-            }
-        }
-    },
-    {
-        "id": "2116-Kuehnle-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "2116 Kuehnle Ave, Atlantic City, NJ 08401",
-        "addressLine1": "2116 Kuehnle Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.372845,
-        "longitude": -74.451326,
-        "propertyType": "Single Family",
-        "bedrooms": 3,
-        "bathrooms": 1,
-        "yearBuilt": 1955,
-        "status": "Active",
-        "price": 195000,
-        "listingType": "Standard",
-        "listedDate": "2023-08-29T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-04-29T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.473Z",
-        "daysOnMarket": 685,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "577269",
-        "listingAgent": {
-            "name": "Yahanne Abdullah",
-            "phone": "6099060622",
-            "email": "yahannearealtor@gmail.com",
-            "website": "https://yahanneabdullah.exprealty.com/"
-        },
-        "listingOffice": {
-            "name": "eXp, Realty-Atlantic City",
-            "phone": "8662016210",
-            "email": "georgeanna.newmones@exprealty.com"
-        },
-        "history": {
-            "2023-08-29": {
-                "event": "Sale Listing",
-                "price": 195000,
-                "listingType": "Standard",
-                "listedDate": "2023-08-29T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 685
-            }
-        }
-    },
-    {
-        "id": "239-N-Arizona-Ave,-Unit-2,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "239 N Arizona Ave, Unit 2, Atlantic City, NJ 08401",
-        "addressLine1": "239 N Arizona Ave",
-        "addressLine2": "Unit 2",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.35981,
-        "longitude": -74.446159,
-        "propertyType": "Condo",
-        "bedrooms": 3,
-        "bathrooms": 2,
-        "squareFootage": 1350,
-        "status": "Active",
-        "price": 599000,
-        "listingType": "New Construction",
-        "listedDate": "2023-11-03T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-11-04T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.472Z",
-        "daysOnMarket": 619,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "579360",
-        "listingAgent": {
-            "name": "Eric Millstein",
-            "phone": "6094878000",
-            "email": "ericmillstein3@gmail.com",
-            "website": "https://www.soleilsir.com/eng"
-        },
-        "listingOffice": {
-            "name": "Soleil Sotheby's International Realty",
-            "phone": "6094878000",
-            "email": "donald.gluck@sothebysrealty.com",
-            "website": "http://www.soleilsir.com/"
-        },
-        "history": {
-            "2023-11-03": {
-                "event": "Sale Listing",
-                "price": 599000,
-                "listingType": "New Construction",
-                "listedDate": "2023-11-03T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 619
-            }
-        }
-    },
-    {
-        "id": "239-N-Arizona-Ave,-Unit-4,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "239 N Arizona Ave, Unit 4, Atlantic City, NJ 08401",
-        "addressLine1": "239 N Arizona Ave",
-        "addressLine2": "Unit 4",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.35981,
-        "longitude": -74.446159,
-        "propertyType": "Condo",
-        "bedrooms": 3,
-        "bathrooms": 2,
-        "squareFootage": 1350,
-        "status": "Active",
-        "price": 599000,
-        "listingType": "New Construction",
-        "listedDate": "2023-11-03T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-11-04T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.471Z",
-        "daysOnMarket": 619,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "579362",
-        "listingAgent": {
-            "name": "Eric Millstein",
-            "phone": "6094878000",
-            "email": "ericmillstein3@gmail.com",
-            "website": "https://www.soleilsir.com/eng"
-        },
-        "listingOffice": {
-            "name": "Soleil Sotheby's International Realty",
-            "phone": "6094878000",
-            "email": "donald.gluck@sothebysrealty.com",
-            "website": "http://www.soleilsir.com/"
-        },
-        "history": {
-            "2023-11-03": {
-                "event": "Sale Listing",
-                "price": 599000,
-                "listingType": "New Construction",
-                "listedDate": "2023-11-03T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 619
-            }
-        }
-    },
-    {
-        "id": "239-N-Arizona-Ave,-Unit-3,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "239 N Arizona Ave, Unit 3, Atlantic City, NJ 08401",
-        "addressLine1": "239 N Arizona Ave",
-        "addressLine2": "Unit 3",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.35981,
-        "longitude": -74.446159,
-        "propertyType": "Condo",
-        "bedrooms": 3,
-        "bathrooms": 2,
-        "squareFootage": 1350,
-        "status": "Active",
-        "price": 599000,
-        "listingType": "New Construction",
-        "listedDate": "2023-11-03T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-11-04T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.471Z",
-        "daysOnMarket": 619,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "579361",
-        "listingAgent": {
-            "name": "Eric Millstein",
-            "phone": "6094878000",
-            "email": "ericmillstein3@gmail.com",
-            "website": "https://www.soleilsir.com/eng"
-        },
-        "listingOffice": {
-            "name": "Soleil Sotheby's International Realty",
-            "phone": "6094878000",
-            "email": "donald.gluck@sothebysrealty.com",
-            "website": "http://www.soleilsir.com/"
-        },
-        "history": {
-            "2023-11-03": {
-                "event": "Sale Listing",
-                "price": 599000,
-                "listingType": "New Construction",
-                "listedDate": "2023-11-03T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 619
-            }
-        }
-    },
-    {
-        "id": "239-N-Arizona-Ave,-Unit-6,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "239 N Arizona Ave, Unit 6, Atlantic City, NJ 08401",
-        "addressLine1": "239 N Arizona Ave",
-        "addressLine2": "Unit 6",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.35981,
-        "longitude": -74.446159,
-        "propertyType": "Condo",
-        "bedrooms": 3,
-        "bathrooms": 2,
-        "squareFootage": 1350,
-        "status": "Active",
-        "price": 529000,
-        "listingType": "New Construction",
-        "listedDate": "2023-11-03T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-11-04T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.470Z",
-        "daysOnMarket": 619,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "579364",
-        "listingAgent": {
-            "name": "Eric Millstein",
-            "phone": "6094878000",
-            "email": "ericmillstein3@gmail.com",
-            "website": "https://www.soleilsir.com/eng"
-        },
-        "listingOffice": {
-            "name": "Soleil Sotheby's International Realty",
-            "phone": "6094878000",
-            "email": "donald.gluck@sothebysrealty.com",
-            "website": "http://www.soleilsir.com/"
-        },
-        "history": {
-            "2023-11-03": {
-                "event": "Sale Listing",
-                "price": 529000,
-                "listingType": "New Construction",
-                "listedDate": "2023-11-03T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 619
-            }
-        }
-    },
-    {
-        "id": "239-N-Arizona-Ave,-Unit-5,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "239 N Arizona Ave, Unit 5, Atlantic City, NJ 08401",
-        "addressLine1": "239 N Arizona Ave",
-        "addressLine2": "Unit 5",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.35981,
-        "longitude": -74.446159,
-        "propertyType": "Condo",
-        "bedrooms": 3,
-        "bathrooms": 2,
-        "squareFootage": 1350,
-        "status": "Active",
-        "price": 529000,
-        "listingType": "New Construction",
-        "listedDate": "2023-11-03T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-11-04T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.470Z",
-        "daysOnMarket": 619,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "579363",
-        "listingAgent": {
-            "name": "Eric Millstein",
-            "phone": "6094878000",
-            "email": "ericmillstein3@gmail.com",
-            "website": "https://www.soleilsir.com/eng"
-        },
-        "listingOffice": {
-            "name": "Soleil Sotheby's International Realty",
-            "phone": "6094878000",
-            "email": "donald.gluck@sothebysrealty.com",
-            "website": "http://www.soleilsir.com/"
-        },
-        "history": {
-            "2023-11-03": {
-                "event": "Sale Listing",
-                "price": 529000,
-                "listingType": "New Construction",
-                "listedDate": "2023-11-03T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 619
-            }
-        }
-    },
-    {
-        "id": "45-N-Massachusetts-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "45 N Massachusetts Ave, Atlantic City, NJ 08401",
-        "addressLine1": "45 N Massachusetts Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.368155,
-        "longitude": -74.417499,
-        "propertyType": "Land",
-        "lotSize": 1259,
-        "status": "Active",
-        "price": 19000,
-        "listingType": "Standard",
-        "listedDate": "2023-12-11T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-11-18T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.468Z",
-        "daysOnMarket": 581,
-        "mlsName": "AllJerseyMLS",
-        "mlsNumber": "2406270R",
-        "listingAgent": {
-            "name": "Kashif Muhammad",
-            "phone": "5712395056",
-            "email": "kashifbajwa2001@gmail.com"
-        },
-        "listingOffice": {
-            "name": "CENTURY 21 John Anthony Agency, Inc.",
-            "phone": "7329062300",
-            "email": "c21johna@aol.com",
-            "website": "johnanthonyagencyinc.c21.com"
-        },
-        "history": {
-            "2023-12-11": {
-                "event": "Sale Listing",
-                "price": 19000,
-                "listingType": "Standard",
-                "listedDate": "2023-12-11T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 581
-            }
-        }
-    },
-    {
-        "id": "8-N-St-Davids-Pl,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "8 N St Davids Pl, Atlantic City, NJ 08401",
-        "addressLine1": "8 N St Davids Pl",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.352378,
-        "longitude": -74.45514,
-        "propertyType": "Land",
-        "lotSize": 33541,
-        "status": "Active",
-        "price": 115000,
-        "listingType": "Standard",
-        "listedDate": "2023-12-17T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-12-18T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.468Z",
-        "daysOnMarket": 575,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "580580",
-        "listingAgent": {
-            "name": "Yehuda Amir",
-            "phone": "6093504570",
-            "email": "yudaman.realtor@gmail.com"
-        },
-        "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
-        },
-        "history": {
-            "2023-12-17": {
-                "event": "Sale Listing",
-                "price": 115000,
-                "listingType": "Standard",
-                "listedDate": "2023-12-17T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 575
-            }
-        }
-    },
-    {
-        "id": "13-Irving-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "13 Irving Ave, Atlantic City, NJ 08401",
-        "addressLine1": "13 Irving Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.368319,
-        "longitude": -74.41516,
-        "propertyType": "Land",
-        "lotSize": 1197,
-        "status": "Active",
-        "price": 29500,
-        "listingType": "Standard",
-        "listedDate": "2024-01-09T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-01-10T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.468Z",
-        "daysOnMarket": 552,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "581088",
-        "listingAgent": {
-            "name": "David Hirsch",
-            "phone": "6092149567",
-            "email": "david@acboardwalkrealty.com",
-            "website": "http://www.acboardwalkrealty.com"
-        },
-        "listingOffice": {
-            "name": "Boardwalk Realty",
-            "phone": "6093452062",
-            "email": "sales@acboardwalkrealty.com",
-            "website": "http://acboardwalkrealty.com"
-        },
-        "history": {
-            "2024-01-09": {
-                "event": "Sale Listing",
-                "price": 29500,
-                "listingType": "Standard",
-                "listedDate": "2024-01-09T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 552
-            }
-        }
-    },
-    {
-        "id": "15-Irving-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "15 Irving Ave, Atlantic City, NJ 08401",
-        "addressLine1": "15 Irving Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.368369,
-        "longitude": -74.415194,
-        "propertyType": "Land",
-        "lotSize": 1197,
-        "status": "Active",
-        "price": 29500,
-        "listingType": "Standard",
-        "listedDate": "2024-01-09T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-01-10T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.467Z",
-        "daysOnMarket": 552,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "581090",
-        "listingAgent": {
-            "name": "David Hirsch",
-            "phone": "6092149567",
-            "email": "david@acboardwalkrealty.com",
-            "website": "http://www.acboardwalkrealty.com"
-        },
-        "listingOffice": {
-            "name": "Boardwalk Realty",
-            "phone": "6093452062",
-            "email": "sales@acboardwalkrealty.com",
-            "website": "http://acboardwalkrealty.com"
-        },
-        "history": {
-            "2024-01-09": {
-                "event": "Sale Listing",
-                "price": 29500,
-                "listingType": "Standard",
-                "listedDate": "2024-01-09T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 552
-            }
-        }
-    },
-    {
-        "id": "822-Adriatic-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "822 Adriatic Ave, Atlantic City, NJ 08401",
-        "addressLine1": "822 Adriatic Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.370223,
-        "longitude": -74.424736,
-        "propertyType": "Land",
-        "lotSize": 22651,
-        "status": "Active",
-        "price": 525000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2023-03-24T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.462Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584392",
-        "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
-        },
-        "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
-        },
-        "history": {
-            "2024-04-21": {
+            "2025-06-16": {
                 "event": "Sale Listing",
                 "price": 525000,
                 "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
+                "listedDate": "2025-06-16T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 449
+                "daysOnMarket": 32
             }
         }
     },
     {
-        "id": "41-N-Congress-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "41 N Congress Ave, Atlantic City, NJ 08401",
-        "addressLine1": "41 N Congress Ave",
+        "id": "828-Corgie-St,-Cape-May,-NJ-08204",
+        "formattedAddress": "828 Corgie St, Cape May, NJ 08204",
+        "addressLine1": "828 Corgie St",
         "addressLine2": null,
-        "city": "Atlantic City",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.367712,
-        "longitude": -74.418093,
-        "propertyType": "Land",
-        "lotSize": 3049,
-        "status": "Active",
-        "price": 65000,
-        "listingType": "Standard",
-        "listedDate": "2024-04-21T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2022-04-10T05:32:26.867Z",
-        "lastSeenDate": "2025-07-13T11:54:17.459Z",
-        "daysOnMarket": 449,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "584386",
-        "listingAgent": {
-            "name": "Mark Arbeit, Agent",
-            "phone": "6094287795",
-            "email": "mark@markattheshore.com",
-            "website": "http://www.markattheshore.com"
-        },
-        "listingOffice": {
-            "name": "New Era Real Estate",
-            "phone": "6098223000",
-            "email": "hello@neweranj.com"
-        },
-        "history": {
-            "2024-04-21": {
-                "event": "Sale Listing",
-                "price": 65000,
-                "listingType": "Standard",
-                "listedDate": "2024-04-21T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 449
-            }
-        }
-    },
-    {
-        "id": "12-N-Tallahassee-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "12 N Tallahassee Ave, Atlantic City, NJ 08401",
-        "addressLine1": "12 N Tallahassee Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.34757,
-        "longitude": -74.465259,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.936403,
+        "longitude": -74.916982,
         "propertyType": "Single Family",
-        "bedrooms": 5,
-        "bathrooms": 3.5,
-        "squareFootage": 3338,
-        "lotSize": 4050,
-        "yearBuilt": 1900,
-        "status": "Active",
-        "price": 799000,
-        "listingType": "Standard",
-        "listedDate": "2024-09-02T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-07-01T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.458Z",
-        "daysOnMarket": 315,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "588643",
-        "listingAgent": {
-            "name": "Robert Salvato",
-            "phone": "6097059143",
-            "email": "rs@acauctions.net",
-            "website": "http://www.acauctions.net"
-        },
-        "listingOffice": {
-            "name": "GRACE PROPERTIES",
-            "phone": "6092649005",
-            "email": "graceproperties1@verizon.net",
-            "website": "www.graceproperties.net"
-        },
-        "history": {
-            "2024-09-02": {
-                "event": "Sale Listing",
-                "price": 799000,
-                "listingType": "Standard",
-                "listedDate": "2024-09-02T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 315
-            }
-        }
-    },
-    {
-        "id": "31-N-Tallahassee-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "31 N Tallahassee Ave, Atlantic City, NJ 08401",
-        "addressLine1": "31 N Tallahassee Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.347612,
-        "longitude": -74.464737,
-        "propertyType": "Single Family",
-        "bedrooms": 4,
+        "bedrooms": 3,
         "bathrooms": 2.5,
-        "squareFootage": 2296,
-        "lotSize": 3400,
-        "yearBuilt": 1900,
+        "lotSize": 9600,
         "status": "Active",
-        "price": 799000,
+        "price": 1495000,
         "listingType": "Standard",
-        "listedDate": "2024-09-02T00:00:00.000Z",
+        "listedDate": "2025-06-13T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2023-08-10T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:54:17.456Z",
-        "daysOnMarket": 315,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "588644",
+        "createdDate": "2025-06-14T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.891Z",
+        "daysOnMarket": 35,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251731",
         "listingAgent": {
-            "name": "Robert Salvato",
-            "phone": "6097059143",
-            "email": "rs@acauctions.net",
-            "website": "http://www.acauctions.net"
+            "name": "Christina Clemans",
+            "phone": "6098843332",
+            "email": "chris@chrisclemanssir.com",
+            "website": "http://www.chrisclemanssir.com"
         },
         "listingOffice": {
-            "name": "GRACE PROPERTIES",
-            "phone": "6092649005",
-            "email": "graceproperties1@verizon.net",
-            "website": "www.graceproperties.net"
+            "name": "Tim Kerr Sotheby's International Realty",
+            "phone": "6098302181",
+            "email": "info@timkerrsir.com",
+            "website": "https://www.timkerrsir.com/"
         },
         "history": {
-            "2024-09-02": {
+            "2025-06-13": {
                 "event": "Sale Listing",
-                "price": 799000,
+                "price": 1495000,
                 "listingType": "Standard",
-                "listedDate": "2024-09-02T00:00:00.000Z",
+                "listedDate": "2025-06-13T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 315
+                "daysOnMarket": 35
             }
         }
     },
     {
-        "id": "3101-Boardwalk,-Unit-2201-1,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "3101 Boardwalk, Unit 2201-1, Atlantic City, NJ 08401",
-        "addressLine1": "3101 Boardwalk",
-        "addressLine2": "Unit 2201-1",
-        "city": "Atlantic City",
+        "id": "10-Deer-Run,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "10 Deer Run, North, Cape May, NJ 08204",
+        "addressLine1": "10 Deer Run",
+        "addressLine2": "North",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.351439,
-        "longitude": -74.448051,
-        "propertyType": "Condo",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.984709,
+        "longitude": -74.929214,
+        "propertyType": "Single Family",
         "bedrooms": 2,
-        "bathrooms": 1.5,
-        "squareFootage": 1160,
-        "yearBuilt": 1984,
-        "hoa": {
-            "fee": 1055
-        },
-        "status": "Active",
-        "price": 259999,
-        "listingType": "Standard",
-        "listedDate": "2024-09-05T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2021-03-06T12:56:33.516Z",
-        "lastSeenDate": "2025-07-13T11:54:17.456Z",
-        "daysOnMarket": 312,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "588766",
-        "listingAgent": {
-            "name": "Edyta Brenner",
-            "phone": "6095136979",
-            "email": "edytab@superiorllc.com"
-        },
-        "listingOffice": {
-            "name": "Superior Properties",
-            "phone": "6099270040",
-            "email": "samc@superiorllc.com",
-            "website": "www.superiorllc.com"
-        },
-        "history": {
-            "2024-09-05": {
-                "event": "Sale Listing",
-                "price": 259999,
-                "listingType": "Standard",
-                "listedDate": "2024-09-05T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 312
-            }
-        }
-    },
-    {
-        "id": "35-S-Laclede-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "35 S Laclede Ave, Atlantic City, NJ 08401",
-        "addressLine1": "35 S Laclede Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.3480835,
-        "longitude": -74.45980835,
-        "propertyType": "Single Family",
-        "bedrooms": 7,
-        "bathrooms": 4.5,
-        "lotSize": 2940,
-        "yearBuilt": 1903,
-        "status": "Active",
-        "price": 1199000,
-        "listingType": "Standard",
-        "listedDate": "2024-10-23T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-10-24T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:48:39.481Z",
-        "daysOnMarket": 264,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "590269",
-        "listingAgent": {
-            "name": "Giuliana Modugno",
-            "phone": "2679816538",
-            "email": "modugnogiuliana@gmail.com"
-        },
-        "listingOffice": {
-            "name": "Vylla Home - Northfield",
-            "phone": "6095686005",
-            "email": "francinelamkin@gmail.com"
-        },
-        "history": {
-            "2024-10-23": {
-                "event": "Sale Listing",
-                "price": 1199000,
-                "listingType": "Standard",
-                "listedDate": "2024-10-23T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 264
-            }
-        }
-    },
-    {
-        "id": "511-521-Pacific-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "511-521 Pacific Ave, Atlantic City, NJ 08401",
-        "addressLine1": "511-521 Pacific Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.365013,
-        "longitude": -74.41658,
-        "propertyType": "Land",
-        "lotSize": 17424,
-        "status": "Active",
-        "price": 995000,
-        "listingType": "Standard",
-        "listedDate": "2024-11-11T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-11-12T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:48:39.480Z",
-        "daysOnMarket": 245,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "590722",
-        "listingAgent": {
-            "name": "Mary Lou",
-            "phone": "6092891139",
-            "email": "farleyandferry@aol.com",
-            "website": "http://www.farleyandferry.com"
-        },
-        "listingOffice": {
-            "name": "Farley And Ferry Realty, INC",
-            "phone": "6098221836",
-            "email": "farleyandferry@aol.com",
-            "website": "www.farleyandferry.com"
-        },
-        "history": {
-            "2024-11-11": {
-                "event": "Sale Listing",
-                "price": 995000,
-                "listingType": "Standard",
-                "listedDate": "2024-11-11T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 245
-            }
-        }
-    },
-    {
-        "id": "45-S-Laclede-Pl,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "45 S Laclede Pl, Atlantic City, NJ 08401",
-        "addressLine1": "45 S Laclede Pl",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.347984,
-        "longitude": -74.459731,
-        "propertyType": "Land",
-        "bedrooms": 4,
-        "bathrooms": 3.5,
-        "squareFootage": 2500,
-        "lotSize": 2940,
-        "status": "Active",
-        "price": 525000,
-        "listingType": "Standard",
-        "listedDate": "2024-10-23T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2021-06-16T13:52:02.269Z",
-        "lastSeenDate": "2025-07-13T11:48:39.475Z",
-        "daysOnMarket": 264,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "590272",
-        "listingAgent": {
-            "name": "Giuliana Modugno",
-            "phone": "2679816538",
-            "email": "modugnogiuliana@gmail.com"
-        },
-        "listingOffice": {
-            "name": "Vylla Home - Northfield",
-            "phone": "6095686005",
-            "email": "francinelamkin@gmail.com"
-        },
-        "history": {
-            "2024-10-23": {
-                "event": "Sale Listing",
-                "price": 525000,
-                "listingType": "Standard",
-                "listedDate": "2024-10-23T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 264
-            }
-        }
-    },
-    {
-        "id": "1828-Reverend-J-J-Walters-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "1828 Reverend J J Walters Ave, Atlantic City, NJ 08401",
-        "addressLine1": "1828 Reverend J J Walters Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.36655,
-        "longitude": -74.438416,
-        "propertyType": "Townhouse",
-        "bedrooms": 3,
-        "bathrooms": 2,
-        "lotSize": 1620,
-        "status": "Active",
-        "price": 189900,
-        "listingType": "Standard",
-        "listedDate": "2024-11-08T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-11-09T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:48:39.473Z",
-        "daysOnMarket": 248,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "590668",
-        "listingAgent": {
-            "name": "Jaden Oritz"
-        },
-        "listingOffice": {
-            "name": "CENTURY 21 Alliance",
-            "phone": "6093995711",
-            "email": "jeffrey.stull@century21.com",
-            "website": "http://c21anj.com/"
-        },
-        "history": {
-            "2024-11-08": {
-                "event": "Sale Listing",
-                "price": 189900,
-                "listingType": "Standard",
-                "listedDate": "2024-11-08T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 248
-            }
-        }
-    },
-    {
-        "id": "100-N-Massachusetts-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "100 N Massachusetts Ave, Atlantic City, NJ 08401",
-        "addressLine1": "100 N Massachusetts Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.368264,
-        "longitude": -74.41811,
-        "propertyType": "Single Family",
-        "bedrooms": 5,
-        "bathrooms": 3.5,
-        "squareFootage": 2200,
-        "lotSize": 5000,
-        "yearBuilt": 2024,
-        "status": "Active",
-        "price": 650000,
-        "listingType": "New Construction",
-        "listedDate": "2024-11-07T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2021-05-12T13:19:09.404Z",
-        "lastSeenDate": "2025-07-13T11:48:39.471Z",
-        "daysOnMarket": 249,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "590635",
-        "listingAgent": {
-            "name": "Gerard Barker",
-            "phone": "6093984400",
-            "email": "jerseydeviljb@gmail.com"
-        },
-        "listingOffice": {
-            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
-            "phone": "6093446200",
-            "email": "john@weichertoc.com",
-            "website": "www.weichertoc.com"
-        },
-        "history": {
-            "2024-11-07": {
-                "event": "Sale Listing",
-                "price": 650000,
-                "listingType": "New Construction",
-                "listedDate": "2024-11-07T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 249
-            }
-        }
-    },
-    {
-        "id": "2016-Blaine-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "2016 Blaine Ave, Atlantic City, NJ 08401",
-        "addressLine1": "2016 Blaine Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.366038,
-        "longitude": -74.440891,
-        "propertyType": "Single Family",
-        "bedrooms": 1,
         "bathrooms": 1,
-        "squareFootage": 720,
-        "lotSize": 5000,
-        "yearBuilt": 1950,
+        "squareFootage": 1116,
+        "lotSize": 8500,
+        "yearBuilt": 1989,
         "status": "Active",
-        "price": 225000,
+        "price": 499000,
         "listingType": "Standard",
-        "listedDate": "2024-09-06T00:00:00.000Z",
+        "listedDate": "2025-06-16T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2020-09-15T08:23:46.577Z",
-        "lastSeenDate": "2025-07-13T11:48:39.393Z",
-        "daysOnMarket": 311,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "588793",
+        "createdDate": "2023-11-17T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.887Z",
+        "daysOnMarket": 32,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251757",
         "listingAgent": {
-            "name": "Stephaun D Perkins",
-            "phone": "6097272267",
-            "email": "stephperkrealestate@gmail.com",
-            "website": "https://stephperk.kw.com/"
+            "name": "Laurie Schiffelbein",
+            "phone": "6094082021",
+            "email": "laurie@tksir.com"
         },
         "listingOffice": {
-            "name": "BETTER HOMES and GARDENS REAL ESTATE MATURO REALTY GROUP-Mt Laurel",
-            "phone": "8563160777"
-        },
-        "history": {
-            "2024-08-06": {
-                "event": "Sale Listing",
-                "price": 175000,
-                "listingType": "Standard",
-                "listedDate": "2024-08-06T00:00:00.000Z",
-                "removedDate": "2024-09-06T00:00:00.000Z",
-                "daysOnMarket": 31
-            },
-            "2024-09-06": {
-                "event": "Sale Listing",
-                "price": 225000,
-                "listingType": "Standard",
-                "listedDate": "2024-09-06T00:00:00.000Z",
-                "removedDate": null,
-                "daysOnMarket": 311
-            }
-        }
-    },
-    {
-        "id": "101-S-Raleigh-Ave,-Apt-619,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "101 S Raleigh Ave, Apt 619, Atlantic City, NJ 08401",
-        "addressLine1": "101 S Raleigh Ave",
-        "addressLine2": "Apt 619",
-        "city": "Atlantic City",
-        "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.346471,
-        "longitude": -74.459221,
-        "propertyType": "Condo",
-        "bedrooms": 2,
-        "bathrooms": 1.5,
-        "yearBuilt": 1980,
-        "hoa": {
-            "fee": 1203
-        },
-        "status": "Active",
-        "price": 225000,
-        "listingType": "Standard",
-        "listedDate": "2024-10-02T00:00:00.000Z",
-        "removedDate": null,
-        "createdDate": "2024-10-03T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:48:39.383Z",
-        "daysOnMarket": 285,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "589641",
-        "listingAgent": {
-            "name": "Jo Ann Daly",
-            "phone": "6095138969",
-            "email": "jdaly@remax.net",
-            "website": "http://www.jdaly.remax-nj.com/"
-        },
-        "listingOffice": {
-            "name": "Re Max Select"
+            "name": "Tim Kerr Sotheby's International Realty",
+            "phone": "6098302181",
+            "email": "info@timkerrsir.com",
+            "website": "https://www.timkerrsir.com/"
         },
         "history": {
             "2024-10-02": {
                 "event": "Sale Listing",
-                "price": 225000,
+                "price": 499900,
                 "listingType": "Standard",
                 "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": "2025-01-01T00:00:00.000Z",
+                "daysOnMarket": 91
+            },
+            "2025-05-09": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-09T00:00:00.000Z",
+                "removedDate": "2025-05-26T00:00:00.000Z",
+                "daysOnMarket": 17
+            },
+            "2025-06-16": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-16T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 285
+                "daysOnMarket": 32
             }
         }
     },
     {
-        "id": "113-N-Brighton-Ave,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "113 N Brighton Ave, Atlantic City, NJ 08401",
-        "addressLine1": "113 N Brighton Ave",
-        "addressLine2": null,
-        "city": "Atlantic City",
+        "id": "401-Beach-Dr,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "401 Beach Dr, North, Cape May, NJ 08204",
+        "addressLine1": "401 Beach Dr",
+        "addressLine2": "North",
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.356939,
-        "longitude": -74.448475,
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.980541,
+        "longitude": -74.959812,
         "propertyType": "Single Family",
         "bedrooms": 3,
-        "bathrooms": 2.5,
-        "lotSize": 1155,
+        "bathrooms": 1,
+        "squareFootage": 1219,
+        "lotSize": 10000,
+        "yearBuilt": 1950,
         "status": "Active",
-        "price": 535000,
-        "listingType": "New Construction",
-        "listedDate": "2024-10-07T00:00:00.000Z",
+        "price": 1595000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-23T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2024-10-08T00:00:00.000Z",
-        "lastSeenDate": "2025-07-13T11:48:39.380Z",
-        "daysOnMarket": 280,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "589791",
+        "createdDate": "2025-03-17T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.784Z",
+        "daysOnMarket": 25,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251833",
         "listingAgent": {
-            "name": "Eric Millstein",
-            "phone": "6094878000",
-            "email": "ericmillstein3@gmail.com",
-            "website": "https://www.soleilsir.com/eng"
+            "name": "Carol Menz",
+            "phone": "6093740325",
+            "email": "carolmenz@coastlinerealty.com",
+            "website": "http://www.carolmenz.com"
         },
         "listingOffice": {
-            "name": "Soleil Sotheby's International Realty",
-            "phone": "6094878000",
-            "email": "donald.gluck@sothebysrealty.com",
-            "website": "http://www.soleilsir.com/"
+            "name": "Coastline Realty,LLC",
+            "phone": "6098845005",
+            "email": "info@coastlinerealty.com",
+            "website": "http://www.coastlinerealty.com"
         },
         "history": {
-            "2024-10-07": {
+            "2025-03-16": {
                 "event": "Sale Listing",
-                "price": 535000,
-                "listingType": "New Construction",
-                "listedDate": "2024-10-07T00:00:00.000Z",
+                "price": 1750000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-16T00:00:00.000Z",
+                "removedDate": "2025-06-16T00:00:00.000Z",
+                "daysOnMarket": 92
+            },
+            "2025-06-23": {
+                "event": "Sale Listing",
+                "price": 1595000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-23T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 280
+                "daysOnMarket": 25
             }
         }
     },
     {
-        "id": "3101-Boardwalk,-Unit-1911-2,-Atlantic-City,-NJ-08401",
-        "formattedAddress": "3101 Boardwalk, Unit 1911-2, Atlantic City, NJ 08401",
-        "addressLine1": "3101 Boardwalk",
-        "addressLine2": "Unit 1911-2",
-        "city": "Atlantic City",
+        "id": "828-1-2-Corgie-St,-Cape-May,-NJ-08204",
+        "formattedAddress": "828 1/2 Corgie St, Cape May, NJ 08204",
+        "addressLine1": "828 1/2 Corgie St",
+        "addressLine2": null,
+        "city": "Cape May",
         "state": "NJ",
-        "zipCode": "08401",
-        "county": "Atlantic",
-        "latitude": 39.351439,
-        "longitude": -74.448051,
-        "propertyType": "Condo",
-        "bedrooms": 1,
-        "bathrooms": 1.5,
-        "squareFootage": 872,
-        "yearBuilt": 1986,
-        "hoa": {
-            "fee": 868
-        },
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.936489,
+        "longitude": -74.91716,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "lotSize": 9600,
         "status": "Active",
-        "price": 239000,
+        "price": 1495000,
         "listingType": "Standard",
-        "listedDate": "2024-11-13T00:00:00.000Z",
+        "listedDate": "2025-06-13T00:00:00.000Z",
         "removedDate": null,
-        "createdDate": "2021-06-19T12:29:16.298Z",
-        "lastSeenDate": "2025-07-13T11:48:39.373Z",
-        "daysOnMarket": 243,
-        "mlsName": "AtlanticCity",
-        "mlsNumber": "590786",
+        "createdDate": "2025-06-14T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.774Z",
+        "daysOnMarket": 35,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251732",
         "listingAgent": {
-            "name": "David Hirsch",
-            "phone": "6092149567",
-            "email": "david@acboardwalkrealty.com",
-            "website": "http://www.acboardwalkrealty.com"
+            "name": "Christina Clemans",
+            "phone": "6098843332",
+            "email": "chris@chrisclemanssir.com",
+            "website": "http://www.chrisclemanssir.com"
         },
         "listingOffice": {
-            "name": "Boardwalk Realty",
-            "phone": "6093452062",
-            "email": "sales@acboardwalkrealty.com",
-            "website": "http://acboardwalkrealty.com"
+            "name": "Tim Kerr Sotheby's International Realty",
+            "phone": "6098302181",
+            "email": "info@timkerrsir.com",
+            "website": "https://www.timkerrsir.com/"
         },
         "history": {
-            "2024-11-13": {
+            "2025-06-13": {
                 "event": "Sale Listing",
-                "price": 239000,
+                "price": 1495000,
                 "listingType": "Standard",
-                "listedDate": "2024-11-13T00:00:00.000Z",
+                "listedDate": "2025-06-13T00:00:00.000Z",
                 "removedDate": null,
-                "daysOnMarket": 243
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "121-Roslyn-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "121 Roslyn Ave, North, Cape May, NJ 08204",
+        "addressLine1": "121 Roslyn Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.982587,
+        "longitude": -74.953232,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1518,
+        "lotSize": 8730,
+        "yearBuilt": 1965,
+        "status": "Active",
+        "price": 649000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-18T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.754Z",
+        "daysOnMarket": 31,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251761",
+        "listingAgent": {
+            "name": "Deborah A Colubiale",
+            "phone": "6094083679",
+            "email": "debbie@cometocapemay.com",
+            "website": "http://www.cometocapemay.com"
+        },
+        "listingOffice": {
+            "name": "deSatnick Real Estate LLC - Lower Township",
+            "phone": "6098866000",
+            "email": "myerk@desatnickrealestate.com"
+        },
+        "history": {
+            "2025-06-17": {
+                "event": "Sale Listing",
+                "price": 649000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 31
+            }
+        }
+    },
+    {
+        "id": "10-Strawberry-Ln,-Cape-May,-NJ-08204",
+        "formattedAddress": "10 Strawberry Ln, Cape May, NJ 08204",
+        "addressLine1": "10 Strawberry Ln",
+        "addressLine2": null,
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.955181,
+        "longitude": -74.928176,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 2982,
+        "lotSize": 43996,
+        "yearBuilt": 1994,
+        "hoa": {
+            "fee": 38
+        },
+        "status": "Active",
+        "price": 1850000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-21T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.723Z",
+        "daysOnMarket": 28,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJCM2005438",
+        "listingAgent": {
+            "name": "Gail Wilsey-morrison",
+            "phone": "6096020405",
+            "email": "gailwilsey@gmail.com",
+            "website": "https://www.longandfoster.com/gailwilseymorrison"
+        },
+        "listingOffice": {
+            "name": "Long & Foster Real Estate, Inc.",
+            "phone": "6098841007"
+        },
+        "history": {
+            "2025-06-20": {
+                "event": "Sale Listing",
+                "price": 1850000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 28
+            }
+        }
+    },
+    {
+        "id": "712-Indian-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "712 Indian Ave, North, Cape May, NJ 08204",
+        "addressLine1": "712 Indian Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.974509,
+        "longitude": -74.95603,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "squareFootage": 1560,
+        "lotSize": 7749,
+        "yearBuilt": 1955,
+        "status": "Active",
+        "price": 672000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-21T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.721Z",
+        "daysOnMarket": 28,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251810",
+        "listingAgent": {
+            "name": "Qizhan \"Jack\" Yao - Buyer Rebate Realtor",
+            "phone": "8883626543",
+            "email": "admin@realmartrealty.com",
+            "website": "http://www.realmart.com"
+        },
+        "listingOffice": {
+            "name": "Realmart Realty LLC.",
+            "phone": "7327272285",
+            "email": "admin@realmartrealty.com",
+            "website": "www.realmart.com"
+        },
+        "history": {
+            "2025-06-20": {
+                "event": "Sale Listing",
+                "price": 672000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 28
+            }
+        }
+    },
+    {
+        "id": "116-Roslyn-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "116 Roslyn Ave, North, Cape May, NJ 08204",
+        "addressLine1": "116 Roslyn Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.982684,
+        "longitude": -74.953779,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "squareFootage": 1528,
+        "lotSize": 6510,
+        "yearBuilt": 1962,
+        "status": "Active",
+        "price": 639900,
+        "listingType": "Standard",
+        "listedDate": "2025-06-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-20T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.715Z",
+        "daysOnMarket": 29,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251802",
+        "listingAgent": {
+            "name": "Jeremy Jones",
+            "phone": "6096754609",
+            "email": "jeremyjones.re@outlook.com",
+            "website": "www.7milevacations.com "
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker James C Otton Real Estate - Sh",
+            "phone": "6093682000",
+            "email": "george@stoneharbor.com"
+        },
+        "history": {
+            "2025-06-19": {
+                "event": "Sale Listing",
+                "price": 639900,
+                "listingType": "Standard",
+                "listedDate": "2025-06-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "1500-Franklin-Ave,-North,-Cape-May,-NJ-08204",
+        "formattedAddress": "1500 Franklin Ave, North, Cape May, NJ 08204",
+        "addressLine1": "1500 Franklin Ave",
+        "addressLine2": "North",
+        "city": "Cape May",
+        "state": "NJ",
+        "zipCode": "08204",
+        "county": "Cape May",
+        "latitude": 38.977676,
+        "longitude": -74.957609,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1691,
+        "lotSize": 8499,
+        "yearBuilt": 1963,
+        "status": "Active",
+        "price": 899000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-26T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T07:15:41.709Z",
+        "daysOnMarket": 23,
+        "mlsName": "CapeMay",
+        "mlsNumber": "251855",
+        "listingAgent": {
+            "name": "Charity R Clark, Broker Owner",
+            "phone": "6094082192",
+            "email": "charity@caperesortsrealty.com",
+            "website": "caperesortreality.com"
+        },
+        "listingOffice": {
+            "name": "Cape Resorts Realty Group",
+            "phone": "6098849070",
+            "email": "info@caperesortsreaty.com",
+            "website": "http://caperesortsrealty.com"
+        },
+        "history": {
+            "2025-06-25": {
+                "event": "Sale Listing",
+                "price": 899000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 23
             }
         }
     }

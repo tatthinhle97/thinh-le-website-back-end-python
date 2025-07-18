@@ -24,12 +24,12 @@ def to_location_dto(_listing):
         status = _listing.get('status')
     )
 @router.get(
-    '/initial-sale-listings',
-    summary='Get initial sale listings.',
-    description='Sale listings in New Jersey - Atlantic City'
+    '/default-rental-listings',
+    summary='Get the default rental listings data.',
+    description='Rental listings in New Jersey - Atlantic City'
 )
 async def get_initial_sale_listings():
-    file_path = os.path.join(os.getcwd(), 'data', 'nj-sale-listings.json')
+    file_path = os.path.join(os.getcwd(), 'data', 'nj-rental-listings.json')
     listings = read_json(file_path)
     location_dtos = []
 

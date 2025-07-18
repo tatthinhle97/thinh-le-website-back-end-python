@@ -1,0 +1,2277 @@
+[
+    {
+        "id": "1722-Atlantic-Ave,-Apt-2C,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "1722 Atlantic Ave, Apt 2C, Atlantic City, NJ 08401",
+        "addressLine1": "1722 Atlantic Ave",
+        "addressLine2": "Apt 2C",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.360058,
+        "longitude": -74.432381,
+        "propertyType": "Apartment",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 850,
+        "status": "Active",
+        "price": 1500,
+        "listingType": "Standard",
+        "listedDate": "2025-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-11-02T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.215Z",
+        "daysOnMarket": 1,
+        "history": {
+            "2025-07-17": {
+                "event": "Rental Listing",
+                "price": 1500,
+                "listingType": "Standard",
+                "listedDate": "2025-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1
+            }
+        }
+    },
+    {
+        "id": "1523-Baltic-Ave,-Unit-1,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "1523 Baltic Ave, Unit 1, Atlantic City, NJ 08401",
+        "addressLine1": "1523 Baltic Ave",
+        "addressLine2": "Unit 1",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.364185,
+        "longitude": -74.432327,
+        "propertyType": "Apartment",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 825,
+        "status": "Active",
+        "price": 1495,
+        "listingType": "Standard",
+        "listedDate": "2025-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-16T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.213Z",
+        "daysOnMarket": 1,
+        "history": {
+            "2025-07-17": {
+                "event": "Rental Listing",
+                "price": 1495,
+                "listingType": "Standard",
+                "listedDate": "2025-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1
+            }
+        }
+    },
+    {
+        "id": "65-Anchorage-Ct,-Unit-65,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "65 Anchorage Ct, Unit 65, Atlantic City, NJ 08401",
+        "addressLine1": "65 Anchorage Ct",
+        "addressLine2": "Unit 65",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.373393,
+        "longitude": -74.419375,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "status": "Active",
+        "price": 1995,
+        "listingType": "Standard",
+        "listedDate": "2024-02-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-02-20T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.212Z",
+        "daysOnMarket": 514,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "582364",
+        "listingAgent": {
+            "name": "Michael Shamberg",
+            "phone": "6094326650",
+            "email": "prudivrealty@aol.com"
+        },
+        "listingOffice": {
+            "name": "Berkshire Hathaway  Diversified Realty",
+            "phone": "6096526690",
+            "email": "robshamberg@comcast.net",
+            "website": "https://www.bhhsdiversified.com/"
+        },
+        "history": {
+            "2024-02-20": {
+                "event": "Rental Listing",
+                "price": 1995,
+                "listingType": "Standard",
+                "listedDate": "2024-02-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 514
+            }
+        }
+    },
+    {
+        "id": "3851-Boardwalk,-Apt-1706,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3851 Boardwalk, Apt 1706, Atlantic City, NJ 08401",
+        "addressLine1": "3851 Boardwalk",
+        "addressLine2": "Apt 1706",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.348283,
+        "longitude": -74.454987,
+        "propertyType": "Condo",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 17000,
+        "listingType": "Standard",
+        "listedDate": "2024-04-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-03-01T00:26:46.383Z",
+        "lastSeenDate": "2025-07-17T04:15:19.211Z",
+        "daysOnMarket": 449,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "584592",
+        "listingAgent": {
+            "name": "Maria Lacca",
+            "phone": "6098233500",
+            "email": "marialaccasells@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty Jersey Shore-Margate",
+            "phone": "6098233500"
+        },
+        "history": {
+            "2024-04-25": {
+                "event": "Rental Listing",
+                "price": 17000,
+                "listingType": "Standard",
+                "listedDate": "2024-04-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 449
+            }
+        }
+    },
+    {
+        "id": "1523-Baltic-Ave,-Unit-2,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "1523 Baltic Ave, Unit 2, Atlantic City, NJ 08401",
+        "addressLine1": "1523 Baltic Ave",
+        "addressLine2": "Unit 2",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.364185,
+        "longitude": -74.432327,
+        "propertyType": "Apartment",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "squareFootage": 560,
+        "status": "Active",
+        "price": 1495,
+        "listingType": "Standard",
+        "listedDate": "2025-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-16T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.208Z",
+        "daysOnMarket": 1,
+        "history": {
+            "2025-07-17": {
+                "event": "Rental Listing",
+                "price": 1495,
+                "listingType": "Standard",
+                "listedDate": "2025-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1
+            }
+        }
+    },
+    {
+        "id": "1523-Baltic-Ave,-Unit-3,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "1523 Baltic Ave, Unit 3, Atlantic City, NJ 08401",
+        "addressLine1": "1523 Baltic Ave",
+        "addressLine2": "Unit 3",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.364185,
+        "longitude": -74.432327,
+        "propertyType": "Apartment",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1200,
+        "status": "Active",
+        "price": 2195,
+        "listingType": "Standard",
+        "listedDate": "2025-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-16T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.120Z",
+        "daysOnMarket": 1,
+        "history": {
+            "2025-07-17": {
+                "event": "Rental Listing",
+                "price": 2195,
+                "listingType": "Standard",
+                "listedDate": "2025-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1
+            }
+        }
+    },
+    {
+        "id": "1722-Atlantic-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "1722 Atlantic Ave, Atlantic City, NJ 08401",
+        "addressLine1": "1722 Atlantic Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.360058,
+        "longitude": -74.432381,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 850,
+        "status": "Active",
+        "price": 1500,
+        "listingType": "Standard",
+        "listedDate": "2025-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-01-13T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.119Z",
+        "daysOnMarket": 1,
+        "history": {
+            "2025-02-09": {
+                "event": "Rental Listing",
+                "price": 1695,
+                "listingType": "Standard",
+                "listedDate": "2025-02-09T00:00:00.000Z",
+                "removedDate": "2025-02-10T00:00:00.000Z",
+                "daysOnMarket": 1
+            },
+            "2025-04-23": {
+                "event": "Rental Listing",
+                "price": 1900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-23T00:00:00.000Z",
+                "removedDate": "2025-04-24T00:00:00.000Z",
+                "daysOnMarket": 1
+            },
+            "2025-07-17": {
+                "event": "Rental Listing",
+                "price": 1500,
+                "listingType": "Standard",
+                "listedDate": "2025-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1
+            }
+        }
+    },
+    {
+        "id": "1914-N-Missouri-Ave,-Unit-2,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "1914 N Missouri Ave, Unit 2, Atlantic City, NJ 08401",
+        "addressLine1": "1914 N Missouri Ave",
+        "addressLine2": "Unit 2",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.372879,
+        "longitude": -74.454788,
+        "propertyType": "Apartment",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 1795,
+        "listingType": "Standard",
+        "listedDate": "2025-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-20T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.116Z",
+        "daysOnMarket": 1,
+        "history": {
+            "2025-07-17": {
+                "event": "Rental Listing",
+                "price": 1795,
+                "listingType": "Standard",
+                "listedDate": "2025-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1
+            }
+        }
+    },
+    {
+        "id": "902-Keener-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "902 Keener Ave, Atlantic City, NJ 08401",
+        "addressLine1": "902 Keener Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.367658,
+        "longitude": -74.442097,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "status": "Active",
+        "price": 2300,
+        "listingType": "Standard",
+        "listedDate": "2024-12-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-12T02:17:10.461Z",
+        "lastSeenDate": "2025-07-17T04:15:19.111Z",
+        "daysOnMarket": 217,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "591464",
+        "listingAgent": {
+            "name": "Silvette Rivera",
+            "phone": "8562382082",
+            "email": "silvetterivera3@gmail.com",
+            "website": "https://silvetterivera.weichertshorehomes.com/"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2024-12-13": {
+                "event": "Rental Listing",
+                "price": 2300,
+                "listingType": "Standard",
+                "listedDate": "2024-12-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 217
+            }
+        }
+    },
+    {
+        "id": "1110-N-Ohio-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "1110 N Ohio Ave, Atlantic City, NJ 08401",
+        "addressLine1": "1110 N Ohio Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.370297,
+        "longitude": -74.44175,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1100,
+        "lotSize": 756,
+        "yearBuilt": 1930,
+        "status": "Active",
+        "price": 2600,
+        "listingType": "Standard",
+        "listedDate": "2024-12-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-02-02T00:38:50.950Z",
+        "lastSeenDate": "2025-07-17T04:15:19.109Z",
+        "daysOnMarket": 210,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "591596",
+        "listingAgent": {
+            "name": "Gerard Barker",
+            "phone": "6093984400",
+            "email": "jerseydeviljb@gmail.com"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2024-12-20": {
+                "event": "Rental Listing",
+                "price": 2600,
+                "listingType": "Standard",
+                "listedDate": "2024-12-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 210
+            }
+        }
+    },
+    {
+        "id": "21-N-Albany-Ave,-Unit-3,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "21 N Albany Ave, Unit 3, Atlantic City, NJ 08401",
+        "addressLine1": "21 N Albany Ave",
+        "addressLine2": "Unit 3",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.352051,
+        "longitude": -74.455101,
+        "propertyType": "Apartment",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 800,
+        "status": "Active",
+        "price": 2290,
+        "listingType": "Standard",
+        "listedDate": "2024-07-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-17T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.108Z",
+        "daysOnMarket": 367,
+        "history": {
+            "2024-07-16": {
+                "event": "Rental Listing",
+                "price": 2290,
+                "listingType": "Standard",
+                "listedDate": "2024-07-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 367
+            }
+        }
+    },
+    {
+        "id": "3501-Boardwalk,-Apt-A122,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3501 Boardwalk, Apt A122, Atlantic City, NJ 08401",
+        "addressLine1": "3501 Boardwalk",
+        "addressLine2": "Apt A122",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.349689,
+        "longitude": -74.451164,
+        "propertyType": "Condo",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "squareFootage": 280,
+        "yearBuilt": 1955,
+        "status": "Active",
+        "price": 1275,
+        "listingType": "Standard",
+        "listedDate": "2024-08-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-08-01T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.102Z",
+        "daysOnMarket": 344,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "587867",
+        "listingAgent": {
+            "name": "Paula Hartman",
+            "phone": "6092717337",
+            "email": "redheadedrealtor@aol.com",
+            "website": "https://hartmanhometeam.com/"
+        },
+        "listingOffice": {
+            "name": "BHHS Fox & Roach Margate",
+            "email": "clientservices@foxroach.com",
+            "website": "https://margate.foxroach.com"
+        },
+        "history": {
+            "2024-08-08": {
+                "event": "Rental Listing",
+                "price": 1275,
+                "listingType": "Standard",
+                "listedDate": "2024-08-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 344
+            }
+        }
+    },
+    {
+        "id": "101-S-Raleigh-707-Ave,-Unit-707,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "101 S Raleigh 707 Ave, Unit 707, Atlantic City, NJ 08401",
+        "addressLine1": "101 S Raleigh 707 Ave",
+        "addressLine2": "Unit 707",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.346687,
+        "longitude": -74.459007,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 2000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-21T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.087Z",
+        "daysOnMarket": 326,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "588432",
+        "listingAgent": {
+            "name": "Jo Ann Daly",
+            "phone": "6095138969",
+            "email": "jdaly@remax.net",
+            "website": "http://www.jdaly.remax-nj.com/"
+        },
+        "listingOffice": {
+            "name": "Re Max Select"
+        },
+        "history": {
+            "2024-08-26": {
+                "event": "Rental Listing",
+                "price": 2000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 326
+            }
+        }
+    },
+    {
+        "id": "3101-Boardwalk,-Unit-3402-2,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3101 Boardwalk, Unit 3402-2, Atlantic City, NJ 08401",
+        "addressLine1": "3101 Boardwalk",
+        "addressLine2": "Unit 3402-2",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.351439,
+        "longitude": -74.448051,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 3400,
+        "yearBuilt": 1985,
+        "status": "Active",
+        "price": 6250,
+        "listingType": "Standard",
+        "listedDate": "2024-10-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-25T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.049Z",
+        "daysOnMarket": 273,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "590131",
+        "listingAgent": {
+            "name": "Terese Brittingham",
+            "phone": "6102120848",
+            "email": "teresekw@gmail.com",
+            "website": "https://kwseven.com"
+        },
+        "listingOffice": {
+            "name": "KELLER WILLIAMS REALTY JERSEY SHORE-Atlantic City",
+            "phone": "6093186636"
+        },
+        "history": {
+            "2024-04-24": {
+                "event": "Rental Listing",
+                "price": 8500,
+                "listingType": "Standard",
+                "listedDate": "2024-04-24T00:00:00.000Z",
+                "removedDate": "2024-10-18T00:00:00.000Z",
+                "daysOnMarket": 177
+            },
+            "2024-10-18": {
+                "event": "Rental Listing",
+                "price": 6250,
+                "listingType": "Standard",
+                "listedDate": "2024-10-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 273
+            }
+        }
+    },
+    {
+        "id": "347-N-Ocean-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "347 N Ocean Ave, Atlantic City, NJ 08401",
+        "addressLine1": "347 N Ocean Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.367504,
+        "longitude": -74.430708,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 922,
+        "lotSize": 749,
+        "yearBuilt": 1910,
+        "status": "Active",
+        "price": 2500,
+        "listingType": "Standard",
+        "listedDate": "2024-12-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-07-05T00:36:11.536Z",
+        "lastSeenDate": "2025-07-17T04:15:19.040Z",
+        "daysOnMarket": 212,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "591563",
+        "listingAgent": {
+            "name": "Gerard Barker",
+            "phone": "6093984400",
+            "email": "jerseydeviljb@gmail.com"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2024-12-18": {
+                "event": "Rental Listing",
+                "price": 2500,
+                "listingType": "Standard",
+                "listedDate": "2024-12-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 212
+            }
+        }
+    },
+    {
+        "id": "3101-Boardwalk,-Unit-Condo,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3101 Boardwalk, Unit Condo, Atlantic City, NJ 08401",
+        "addressLine1": "3101 Boardwalk",
+        "addressLine2": "Unit Condo",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.351299,
+        "longitude": -74.447975,
+        "propertyType": "Condo",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "status": "Active",
+        "price": 6750,
+        "listingType": "Standard",
+        "listedDate": "2024-10-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.036Z",
+        "daysOnMarket": 273,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "590134",
+        "listingAgent": {
+            "name": "Terese Brittingham",
+            "phone": "6102120848",
+            "email": "teresekw@gmail.com",
+            "website": "https://kwseven.com"
+        },
+        "listingOffice": {
+            "name": "KELLER WILLIAMS REALTY JERSEY SHORE-Atlantic City",
+            "phone": "6093186636"
+        },
+        "history": {
+            "2024-10-18": {
+                "event": "Rental Listing",
+                "price": 6750,
+                "listingType": "Standard",
+                "listedDate": "2024-10-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 273
+            }
+        }
+    },
+    {
+        "id": "402-Madison-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "402 Madison Ave, Atlantic City, NJ 08401",
+        "addressLine1": "402 Madison Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.369797,
+        "longitude": -74.417503,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1100,
+        "yearBuilt": 2006,
+        "status": "Active",
+        "price": 2650,
+        "listingType": "Standard",
+        "listedDate": "2024-12-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-12-19T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:15:19.033Z",
+        "daysOnMarket": 212,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "591542",
+        "listingAgent": {
+            "name": "Gerard Barker",
+            "phone": "6093984400",
+            "email": "jerseydeviljb@gmail.com"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2024-12-18": {
+                "event": "Rental Listing",
+                "price": 2650,
+                "listingType": "Standard",
+                "listedDate": "2024-12-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 212
+            }
+        }
+    },
+    {
+        "id": "2019-Grant-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "2019 Grant Ave, Atlantic City, NJ 08401",
+        "addressLine1": "2019 Grant Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.36754,
+        "longitude": -74.442139,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 2550,
+        "listingType": "Standard",
+        "listedDate": "2024-12-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2019-12-01T22:55:06.586Z",
+        "lastSeenDate": "2025-07-17T04:15:19.024Z",
+        "daysOnMarket": 212,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "591561",
+        "listingAgent": {
+            "name": "Gerard Barker",
+            "phone": "6093984400",
+            "email": "jerseydeviljb@gmail.com"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2024-12-18": {
+                "event": "Rental Listing",
+                "price": 2550,
+                "listingType": "Standard",
+                "listedDate": "2024-12-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 212
+            }
+        }
+    },
+    {
+        "id": "202-Chalfonte-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "202 Chalfonte Ave, Atlantic City, NJ 08401",
+        "addressLine1": "202 Chalfonte Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.365808,
+        "longitude": -74.428356,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 1728,
+        "yearBuilt": 2010,
+        "status": "Active",
+        "price": 2700,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-08-16T01:52:21.039Z",
+        "lastSeenDate": "2025-07-17T04:06:03.839Z",
+        "daysOnMarket": 122,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594276",
+        "listingAgent": {
+            "name": "Jaclyn Tsai",
+            "phone": "6097883777",
+            "email": "freeholdnj2000@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "Jackie 888, Inc",
+            "phone": "6097883777",
+            "email": "freeholdnj2000@yahoo.com"
+        },
+        "history": {
+            "2025-03-18": {
+                "event": "Rental Listing",
+                "price": 2700,
+                "listingType": "Standard",
+                "listedDate": "2025-03-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 122
+            }
+        }
+    },
+    {
+        "id": "2721-Boardwalk,-Unit-1406,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "2721 Boardwalk, Unit 1406, Atlantic City, NJ 08401",
+        "addressLine1": "2721 Boardwalk",
+        "addressLine2": "Unit 1406",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.352315,
+        "longitude": -74.443667,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 578,
+        "status": "Active",
+        "price": 12000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-27T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.832Z",
+        "daysOnMarket": 114,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594561",
+        "listingAgent": {
+            "name": "Lauren Brooks",
+            "phone": "6098223700",
+            "email": "laurenbrooks1960@gmail.com",
+            "website": "http://laurenbrooksrealtor.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Argus Real Estate",
+            "phone": "6098223700",
+            "email": "lester.argus@gmail.com",
+            "website": "www.coldwellbankerargus.com"
+        },
+        "history": {
+            "2025-03-26": {
+                "event": "Rental Listing",
+                "price": 12000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 114
+            }
+        }
+    },
+    {
+        "id": "8-S-Richmond-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "8 S Richmond Ave, Atlantic City, NJ 08401",
+        "addressLine1": "8 S Richmond Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.348609,
+        "longitude": -74.460123,
+        "propertyType": "Apartment",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 1700,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-06-30T00:42:06.885Z",
+        "lastSeenDate": "2025-07-17T04:06:03.827Z",
+        "daysOnMarket": 130,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594001",
+        "listingAgent": {
+            "name": "Maria Lacca",
+            "phone": "6098233500",
+            "email": "marialaccasells@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty Jersey Shore-Margate",
+            "phone": "6098233500"
+        },
+        "history": {
+            "2025-03-10": {
+                "event": "Rental Listing",
+                "price": 1700,
+                "listingType": "New Construction",
+                "listedDate": "2025-03-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 130
+            }
+        }
+    },
+    {
+        "id": "101-Raleigh,-Unit-232,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "101 Raleigh, Unit 232, Atlantic City, NJ 08401",
+        "addressLine1": "101 Raleigh",
+        "addressLine2": "Unit 232",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.346687,
+        "longitude": -74.459007,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 13500,
+        "listingType": "Standard",
+        "listedDate": "2025-03-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-05T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.826Z",
+        "daysOnMarket": 136,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "593747",
+        "listingAgent": {
+            "name": "David Hirsch",
+            "phone": "6092149567",
+            "email": "david@acboardwalkrealty.com",
+            "website": "http://www.acboardwalkrealty.com"
+        },
+        "listingOffice": {
+            "name": "Boardwalk Realty",
+            "phone": "6093452062",
+            "email": "sales@acboardwalkrealty.com",
+            "website": "http://acboardwalkrealty.com"
+        },
+        "history": {
+            "2025-03-04": {
+                "event": "Rental Listing",
+                "price": 13500,
+                "listingType": "Standard",
+                "listedDate": "2025-03-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 136
+            }
+        }
+    },
+    {
+        "id": "7B-S-Elberon-Ave,-Unit-7B,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "7B S Elberon Ave, Unit 7B, Atlantic City, NJ 08401",
+        "addressLine1": "7B S Elberon Ave",
+        "addressLine2": "Unit 7B",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.349979,
+        "longitude": -74.457207,
+        "propertyType": "Apartment",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 1850,
+        "listingType": "Standard",
+        "listedDate": "2025-01-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-26T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.821Z",
+        "daysOnMarket": 174,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "592487",
+        "listingAgent": {
+            "name": "Trish Quintana",
+            "phone": "6093176604",
+            "email": "trish.quintana@foxroach.com",
+            "website": "http://trishquintana.foxroach.com"
+        },
+        "listingOffice": {
+            "name": "BHHS Fox & Roach Northfield",
+            "email": "clientservices@foxroach.com",
+            "website": "https://northfield.foxroach.com"
+        },
+        "history": {
+            "2025-01-25": {
+                "event": "Rental Listing",
+                "price": 1850,
+                "listingType": "Standard",
+                "listedDate": "2025-01-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 174
+            }
+        }
+    },
+    {
+        "id": "522-N-Indiana-Ave,-Apt-1,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "522 N Indiana Ave, Apt 1, Atlantic City, NJ 08401",
+        "addressLine1": "522 N Indiana Ave",
+        "addressLine2": "Apt 1",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.366783,
+        "longitude": -74.437859,
+        "propertyType": "Apartment",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 1800,
+        "listingType": "Standard",
+        "listedDate": "2025-01-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-01T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.820Z",
+        "daysOnMarket": 168,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "592656",
+        "listingAgent": {
+            "name": "Silvette Rivera",
+            "phone": "8562382082",
+            "email": "silvetterivera3@gmail.com",
+            "website": "https://silvetterivera.weichertshorehomes.com/"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2025-01-31": {
+                "event": "Rental Listing",
+                "price": 1800,
+                "listingType": "Standard",
+                "listedDate": "2025-01-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 168
+            }
+        }
+    },
+    {
+        "id": "10-Caravel-Ct,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "10 Caravel Ct, Atlantic City, NJ 08401",
+        "addressLine1": "10 Caravel Ct",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.372036,
+        "longitude": -74.417474,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1258,
+        "lotSize": 1561,
+        "status": "Active",
+        "price": 2800,
+        "listingType": "Standard",
+        "listedDate": "2025-01-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-01T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.818Z",
+        "daysOnMarket": 168,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "592670",
+        "listingAgent": {
+            "name": "Marie Mcqueen",
+            "phone": "6092541082",
+            "email": "queenofthesea11@gmail.com",
+            "website": "http://mcqueenofthesea.com"
+        },
+        "listingOffice": {
+            "name": "KELLER WILLIAMS REALTY JERSEY SHORE-Atlantic City",
+            "phone": "6093186636"
+        },
+        "history": {
+            "2025-01-31": {
+                "event": "Rental Listing",
+                "price": 2800,
+                "listingType": "Standard",
+                "listedDate": "2025-01-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 168
+            }
+        }
+    },
+    {
+        "id": "3101-Boardwalk,-Unit-2412-2,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3101 Boardwalk, Unit 2412-2, Atlantic City, NJ 08401",
+        "addressLine1": "3101 Boardwalk",
+        "addressLine2": "Unit 2412-2",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.351439,
+        "longitude": -74.448051,
+        "propertyType": "Apartment",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "squareFootage": 911,
+        "yearBuilt": 1985,
+        "status": "Active",
+        "price": 16900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-24T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.795Z",
+        "daysOnMarket": 149,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJAC2017178",
+        "listingAgent": {
+            "name": "Carol Huff",
+            "phone": "2157833122",
+            "email": "huffeq1@aol.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty Jersey Shore Wc",
+            "phone": "6097292100",
+            "email": "paul@teamoceanside.com",
+            "website": "www.kwshore.com"
+        },
+        "history": {
+            "2025-02-19": {
+                "event": "Rental Listing",
+                "price": 16900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 149
+            }
+        }
+    },
+    {
+        "id": "3809-Ventnor-Ave,-Unit-3,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3809 Ventnor Ave, Unit 3, Atlantic City, NJ 08401",
+        "addressLine1": "3809 Ventnor Ave",
+        "addressLine2": "Unit 3",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.350884,
+        "longitude": -74.456074,
+        "propertyType": "Apartment",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 930,
+        "yearBuilt": 1939,
+        "status": "Active",
+        "price": 2500,
+        "listingType": "Standard",
+        "listedDate": "2025-02-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-04-01T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.794Z",
+        "daysOnMarket": 149,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "593282",
+        "listingAgent": {
+            "name": "Yehuda Amir",
+            "phone": "6093504570",
+            "email": "yudaman.realtor@gmail.com"
+        },
+        "listingOffice": {
+            "name": "New Era Real Estate",
+            "phone": "6098223000",
+            "email": "hello@neweranj.com"
+        },
+        "history": {
+            "2025-02-19": {
+                "event": "Rental Listing",
+                "price": 2500,
+                "listingType": "Standard",
+                "listedDate": "2025-02-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 149
+            }
+        }
+    },
+    {
+        "id": "309-N-Delaware-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "309 N Delaware Ave, Atlantic City, NJ 08401",
+        "addressLine1": "309 N Delaware Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.369631,
+        "longitude": -74.423306,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1280,
+        "lotSize": 800,
+        "yearBuilt": 1910,
+        "status": "Active",
+        "price": 2550,
+        "listingType": "Standard",
+        "listedDate": "2025-02-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-21T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.793Z",
+        "daysOnMarket": 148,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "593303",
+        "listingAgent": {
+            "name": "Gerard Barker",
+            "phone": "6093984400",
+            "email": "jerseydeviljb@gmail.com"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2025-02-20": {
+                "event": "Rental Listing",
+                "price": 2550,
+                "listingType": "Standard",
+                "listedDate": "2025-02-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 148
+            }
+        }
+    },
+    {
+        "id": "1816-Hummock-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "1816 Hummock Ave, Atlantic City, NJ 08401",
+        "addressLine1": "1816 Hummock Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.365717,
+        "longitude": -74.437763,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 1800,
+        "listingType": "Standard",
+        "listedDate": "2025-03-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-12-09T00:36:23.463Z",
+        "lastSeenDate": "2025-07-17T04:06:03.767Z",
+        "daysOnMarket": 127,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594136",
+        "listingAgent": {
+            "name": "Christopher Ponteri"
+        },
+        "listingOffice": {
+            "name": "3DX Real Estate, LLC",
+            "phone": "8883041447"
+        },
+        "history": {
+            "2025-03-13": {
+                "event": "Rental Listing",
+                "price": 1800,
+                "listingType": "Standard",
+                "listedDate": "2025-03-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 127
+            }
+        }
+    },
+    {
+        "id": "2021-Caspian-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "2021 Caspian Ave, Atlantic City, NJ 08401",
+        "addressLine1": "2021 Caspian Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.365628,
+        "longitude": -74.441064,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "lotSize": 2500,
+        "yearBuilt": 1925,
+        "status": "Active",
+        "price": 2800,
+        "listingType": "Standard",
+        "listedDate": "2025-03-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-12-13T02:11:13.260Z",
+        "lastSeenDate": "2025-07-17T04:06:03.766Z",
+        "daysOnMarket": 115,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594528",
+        "listingAgent": {
+            "name": "Priscilla Easmael",
+            "phone": "6094849890",
+            "email": "priscilla@capswag.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty Atlantic Sho",
+            "phone": "6094849890",
+            "email": "shawnobrien@kw.com",
+            "website": "mc794.yourkwoffice.com"
+        },
+        "history": {
+            "2025-03-25": {
+                "event": "Rental Listing",
+                "price": 2800,
+                "listingType": "Standard",
+                "listedDate": "2025-03-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 115
+            }
+        }
+    },
+    {
+        "id": "11-Liberty-Ter,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "11 Liberty Ter, Atlantic City, NJ 08401",
+        "addressLine1": "11 Liberty Ter",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.359322,
+        "longitude": -74.442586,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "status": "Active",
+        "price": 1650,
+        "listingType": "Standard",
+        "listedDate": "2025-03-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-05T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.744Z",
+        "daysOnMarket": 136,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "593763",
+        "listingAgent": {
+            "name": "Albert Casalnova",
+            "phone": "6094849890",
+            "email": "alcasalnova@gmail.com",
+            "website": "https://www.kw.com/agent/upa-6587385193489551366-4"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty Atlantic Sho",
+            "phone": "6094849890",
+            "email": "shawnobrien@kw.com",
+            "website": "mc794.yourkwoffice.com"
+        },
+        "history": {
+            "2025-03-04": {
+                "event": "Rental Listing",
+                "price": 1650,
+                "listingType": "Standard",
+                "listedDate": "2025-03-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 136
+            }
+        }
+    },
+    {
+        "id": "517-N-Indiana-Ave,-Apt-3,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "517 N Indiana Ave, Apt 3, Atlantic City, NJ 08401",
+        "addressLine1": "517 N Indiana Ave",
+        "addressLine2": "Apt 3",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.366798,
+        "longitude": -74.437347,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1984,
+        "lotSize": 1307,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 1800,
+        "listingType": "Standard",
+        "listedDate": "2025-04-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-02T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.743Z",
+        "daysOnMarket": 108,
+        "mlsName": "BrightMLS",
+        "mlsNumber": "NJAC2017880",
+        "listingAgent": {
+            "name": "Michael Lerman",
+            "phone": "7329212991",
+            "email": "mjlerman1@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Realtymark Advantage",
+            "phone": "8564574900",
+            "email": "dsupnick@aol.com",
+            "website": "www.realtymarkagents.com/derekwatson"
+        },
+        "history": {
+            "2025-04-01": {
+                "event": "Rental Listing",
+                "price": 1800,
+                "listingType": "Standard",
+                "listedDate": "2025-04-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 108
+            }
+        }
+    },
+    {
+        "id": "21-N-Sovereign-Ave-Unit-A,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "21 N Sovereign Ave Unit A, Atlantic City, NJ 08401",
+        "addressLine1": "21 N Sovereign Ave Unit A",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.354122,
+        "longitude": -74.451241,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "status": "Active",
+        "price": 2900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-07T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.740Z",
+        "daysOnMarket": 103,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594950",
+        "listingAgent": {
+            "name": "Eric Millstein",
+            "phone": "6094878000",
+            "email": "ericmillstein3@gmail.com",
+            "website": "https://www.soleilsir.com/eng"
+        },
+        "listingOffice": {
+            "name": "Soleil Sotheby's International Realty",
+            "phone": "6094878000",
+            "email": "donald.gluck@sothebysrealty.com",
+            "website": "http://www.soleilsir.com/"
+        },
+        "history": {
+            "2025-04-06": {
+                "event": "Rental Listing",
+                "price": 2900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 103
+            }
+        }
+    },
+    {
+        "id": "3101-Boardwalk,-Ste-3208-2,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3101 Boardwalk, Ste 3208-2, Atlantic City, NJ 08401",
+        "addressLine1": "3101 Boardwalk",
+        "addressLine2": "Ste 3208-2",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.351439,
+        "longitude": -74.448051,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "squareFootage": 911,
+        "yearBuilt": 1985,
+        "status": "Active",
+        "price": 2850,
+        "listingType": "Standard",
+        "listedDate": "2025-03-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-19T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.735Z",
+        "daysOnMarket": 133,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "593901",
+        "listingAgent": {
+            "name": "Carol Huff"
+        },
+        "listingOffice": {
+            "name": "KELLER WILLIAMS REALTY JERSEY SHORE-Atlantic City",
+            "phone": "6093186636"
+        },
+        "history": {
+            "2025-03-07": {
+                "event": "Rental Listing",
+                "price": 2850,
+                "listingType": "Standard",
+                "listedDate": "2025-03-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 133
+            }
+        }
+    },
+    {
+        "id": "29-N-Bartram-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "29 N Bartram Ave, Atlantic City, NJ 08401",
+        "addressLine1": "29 N Bartram Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.348343,
+        "longitude": -74.462959,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "status": "Active",
+        "price": 20000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-29T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.732Z",
+        "daysOnMarket": 112,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594644",
+        "listingAgent": {
+            "name": "Paula Hartman",
+            "phone": "6092717337",
+            "email": "redheadedrealtor@aol.com",
+            "website": "https://hartmanhometeam.com/"
+        },
+        "listingOffice": {
+            "name": "BHHS Fox & Roach Margate",
+            "email": "clientservices@foxroach.com",
+            "website": "https://margate.foxroach.com"
+        },
+        "history": {
+            "2025-03-28": {
+                "event": "Rental Listing",
+                "price": 20000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 112
+            }
+        }
+    },
+    {
+        "id": "3501-Boardwalk,-Apt-C207,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3501 Boardwalk, Apt C207, Atlantic City, NJ 08401",
+        "addressLine1": "3501 Boardwalk",
+        "addressLine2": "Apt C207",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.373173,
+        "longitude": -74.442535,
+        "propertyType": "Condo",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 8000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-03-23T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.730Z",
+        "daysOnMarket": 130,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "593985",
+        "listingAgent": {
+            "name": "Paula Hartman",
+            "phone": "6092717337",
+            "email": "redheadedrealtor@aol.com",
+            "website": "https://hartmanhometeam.com/"
+        },
+        "listingOffice": {
+            "name": "BHHS Fox & Roach Margate",
+            "email": "clientservices@foxroach.com",
+            "website": "https://margate.foxroach.com"
+        },
+        "history": {
+            "2025-03-10": {
+                "event": "Rental Listing",
+                "price": 8000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 130
+            }
+        }
+    },
+    {
+        "id": "516-N-Indiana-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "516 N Indiana Ave, Atlantic City, NJ 08401",
+        "addressLine1": "516 N Indiana Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.36666,
+        "longitude": -74.437759,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 2232,
+        "lotSize": 3750,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 2000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-01-16T00:00:45.687Z",
+        "lastSeenDate": "2025-07-17T04:06:03.728Z",
+        "daysOnMarket": 107,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594810",
+        "listingAgent": {
+            "name": "Silvette Rivera",
+            "phone": "8562382082",
+            "email": "silvetterivera3@gmail.com",
+            "website": "https://silvetterivera.weichertshorehomes.com/"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2025-04-02": {
+                "event": "Rental Listing",
+                "price": 2000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 107
+            }
+        }
+    },
+    {
+        "id": "4013-Ventnor-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "4013 Ventnor Ave, Atlantic City, NJ 08401",
+        "addressLine1": "4013 Ventnor Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.349856,
+        "longitude": -74.458756,
+        "propertyType": "Multi-Family",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "status": "Active",
+        "price": 1750,
+        "listingType": "Standard",
+        "listedDate": "2025-03-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-01T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.699Z",
+        "daysOnMarket": 109,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594724",
+        "listingAgent": {
+            "name": "Michael Lerman",
+            "phone": "7329212991",
+            "email": "mjlerman1@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Realtymark Advantage",
+            "phone": "8564574900",
+            "email": "dsupnick@aol.com",
+            "website": "www.realtymarkagents.com/derekwatson"
+        },
+        "history": {
+            "2025-03-31": {
+                "event": "Rental Listing",
+                "price": 1750,
+                "listingType": "Standard",
+                "listedDate": "2025-03-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 109
+            }
+        }
+    },
+    {
+        "id": "3101-Boardwalk,-Unit-1401,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "3101 Boardwalk, Unit 1401, Atlantic City, NJ 08401",
+        "addressLine1": "3101 Boardwalk",
+        "addressLine2": "Unit 1401",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.351299,
+        "longitude": -74.447975,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "status": "Active",
+        "price": 18000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-12-23T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.697Z",
+        "daysOnMarket": 106,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594837",
+        "listingAgent": {
+            "name": "Judi Cohen",
+            "phone": "6095132303",
+            "email": "judi.cohen@foxroach.com",
+            "website": "http://www.judicohen.com"
+        },
+        "listingOffice": {
+            "name": "BHHS Fox & Roach Margate",
+            "email": "clientservices@foxroach.com",
+            "website": "https://margate.foxroach.com"
+        },
+        "history": {
+            "2025-04-03": {
+                "event": "Rental Listing",
+                "price": 18000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 106
+            }
+        }
+    },
+    {
+        "id": "4009-Ventnor-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "4009 Ventnor Ave, Atlantic City, NJ 08401",
+        "addressLine1": "4009 Ventnor Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.349911,
+        "longitude": -74.458633,
+        "propertyType": "Apartment",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 17000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-04T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.688Z",
+        "daysOnMarket": 106,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594860",
+        "listingAgent": {
+            "name": "Jacquelin Lyons",
+            "phone": "6094428420",
+            "email": "jackielyons@kw.com"
+        },
+        "listingOffice": {
+            "name": "MARCHESE REAL ESTATE LLC",
+            "phone": "6098234696",
+            "email": "emily@marcheseteam.com"
+        },
+        "history": {
+            "2025-04-03": {
+                "event": "Rental Listing",
+                "price": 17000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 106
+            }
+        }
+    },
+    {
+        "id": "21-N-Sovereign-Ave-Unit-B,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "21 N Sovereign Ave Unit B, Atlantic City, NJ 08401",
+        "addressLine1": "21 N Sovereign Ave Unit B",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.354122,
+        "longitude": -74.451241,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "status": "Active",
+        "price": 2900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-07T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.686Z",
+        "daysOnMarket": 103,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "594951",
+        "listingAgent": {
+            "name": "Eric Millstein",
+            "phone": "6094878000",
+            "email": "ericmillstein3@gmail.com",
+            "website": "https://www.soleilsir.com/eng"
+        },
+        "listingOffice": {
+            "name": "Soleil Sotheby's International Realty",
+            "phone": "6094878000",
+            "email": "donald.gluck@sothebysrealty.com",
+            "website": "http://www.soleilsir.com/"
+        },
+        "history": {
+            "2025-04-06": {
+                "event": "Rental Listing",
+                "price": 2900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 103
+            }
+        }
+    },
+    {
+        "id": "33-N-Delancy-Pl,-Unit-1ST,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "33 N Delancy Pl, Unit 1ST, Atlantic City, NJ 08401",
+        "addressLine1": "33 N Delancy Pl",
+        "addressLine2": "Unit 1ST",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.348846,
+        "longitude": -74.462273,
+        "propertyType": "Apartment",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 6000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-11T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T04:06:03.674Z",
+        "daysOnMarket": 99,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "595086",
+        "listingAgent": {
+            "name": "Margeaux Kivlin",
+            "phone": "6093350469",
+            "email": "margeaux@marketplacesells.com"
+        },
+        "listingOffice": {
+            "name": "Marketplace Realty",
+            "phone": "6098238500",
+            "email": "market8500@aol.com",
+            "website": "http://marketplacesells.com"
+        },
+        "history": {
+            "2025-04-10": {
+                "event": "Rental Listing",
+                "price": 6000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 99
+            }
+        }
+    },
+    {
+        "id": "4401-Atlantic-Ave,-Apt-B4,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "4401 Atlantic Ave, Apt B4, Atlantic City, NJ 08401",
+        "addressLine1": "4401 Atlantic Ave",
+        "addressLine2": "Apt B4",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.34663,
+        "longitude": -74.461566,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1200,
+        "yearBuilt": 1930,
+        "status": "Active",
+        "price": 5000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-19T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T03:38:59.570Z",
+        "daysOnMarket": 91,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "595339",
+        "listingAgent": {
+            "name": "Eric Millstein",
+            "phone": "6094878000",
+            "email": "ericmillstein3@gmail.com",
+            "website": "https://www.soleilsir.com/eng"
+        },
+        "listingOffice": {
+            "name": "Soleil Sotheby's International Realty",
+            "phone": "6094878000",
+            "email": "donald.gluck@sothebysrealty.com",
+            "website": "http://www.soleilsir.com/"
+        },
+        "history": {
+            "2025-04-18": {
+                "event": "Rental Listing",
+                "price": 5000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 91
+            }
+        }
+    },
+    {
+        "id": "101-S-Raleigh-Ave,-Apt-325,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "101 S Raleigh Ave, Apt 325, Atlantic City, NJ 08401",
+        "addressLine1": "101 S Raleigh Ave",
+        "addressLine2": "Apt 325",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.346784,
+        "longitude": -74.459082,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 12900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-05-28T12:21:23.460Z",
+        "lastSeenDate": "2025-07-17T03:38:59.562Z",
+        "daysOnMarket": 86,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "595475",
+        "listingAgent": {
+            "name": "Maria Lacca",
+            "phone": "6098233500",
+            "email": "marialaccasells@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty Jersey Shore-Margate",
+            "phone": "6098233500"
+        },
+        "history": {
+            "2024-04-12": {
+                "event": "Rental Listing",
+                "price": 14750,
+                "listingType": "Standard",
+                "listedDate": "2024-04-12T00:00:00.000Z",
+                "removedDate": "2024-10-16T00:00:00.000Z",
+                "daysOnMarket": 187
+            },
+            "2025-04-23": {
+                "event": "Rental Listing",
+                "price": 12900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 86
+            }
+        }
+    },
+    {
+        "id": "69-N-Harrisburg-Ave,-Apt-4,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "69 N Harrisburg Ave, Apt 4, Atlantic City, NJ 08401",
+        "addressLine1": "69 N Harrisburg Ave",
+        "addressLine2": "Apt 4",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.351802,
+        "longitude": -74.457841,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 932,
+        "yearBuilt": 1962,
+        "status": "Active",
+        "price": 2750,
+        "listingType": "Standard",
+        "listedDate": "2025-04-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-06-23T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T03:38:59.554Z",
+        "daysOnMarket": 86,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "595465",
+        "listingAgent": {
+            "name": "Jacquelin Lyons",
+            "phone": "6094428420",
+            "email": "jackielyons@kw.com"
+        },
+        "listingOffice": {
+            "name": "MARCHESE REAL ESTATE LLC",
+            "phone": "6098234696",
+            "email": "emily@marcheseteam.com"
+        },
+        "history": {
+            "2025-04-23": {
+                "event": "Rental Listing",
+                "price": 2750,
+                "listingType": "Standard",
+                "listedDate": "2025-04-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 86
+            }
+        }
+    },
+    {
+        "id": "219-Oriental-Ave,-Unit-2,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "219 Oriental Ave, Unit 2, Atlantic City, NJ 08401",
+        "addressLine1": "219 Oriental Ave",
+        "addressLine2": "Unit 2",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.365498,
+        "longitude": -74.411896,
+        "propertyType": "Apartment",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 2000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-11-09T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T03:38:59.553Z",
+        "daysOnMarket": 85,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "595516",
+        "listingAgent": {
+            "name": "Goran Cedevski",
+            "phone": "6093340238",
+            "email": "goran.cedevski@foxroach.com",
+            "website": "https://gorancedevski.foxroach.com/"
+        },
+        "listingOffice": {
+            "name": "BHHS Fox & Roach Northfield",
+            "email": "clientservices@foxroach.com",
+            "website": "https://northfield.foxroach.com"
+        },
+        "history": {
+            "2025-04-24": {
+                "event": "Rental Listing",
+                "price": 2000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 85
+            }
+        }
+    },
+    {
+        "id": "64-N-Laclede-Pl,-Unit-A,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "64 N Laclede Pl, Unit A, Atlantic City, NJ 08401",
+        "addressLine1": "64 N Laclede Pl",
+        "addressLine2": "Unit A",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.349792,
+        "longitude": -74.461777,
+        "propertyType": "Apartment",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "squareFootage": 250,
+        "status": "Active",
+        "price": 1350,
+        "listingType": "Standard",
+        "listedDate": "2025-04-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-24T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T03:38:59.550Z",
+        "daysOnMarket": 86,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "595461",
+        "listingAgent": {
+            "name": "Nathan \"Nate\" Chait",
+            "phone": "6097425896",
+            "email": "natechaitrealestate@gmail.com",
+            "website": "weichertac.com"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2025-04-23": {
+                "event": "Rental Listing",
+                "price": 1350,
+                "listingType": "Standard",
+                "listedDate": "2025-04-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 86
+            }
+        }
+    },
+    {
+        "id": "101-S-Raleigh-Ave,-Apt-213,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "101 S Raleigh Ave, Apt 213, Atlantic City, NJ 08401",
+        "addressLine1": "101 S Raleigh Ave",
+        "addressLine2": "Apt 213",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.346755,
+        "longitude": -74.459378,
+        "propertyType": "Condo",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 1800,
+        "listingType": "Standard",
+        "listedDate": "2025-05-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-09-15T00:58:20.098Z",
+        "lastSeenDate": "2025-07-17T03:38:59.473Z",
+        "daysOnMarket": 78,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "595778",
+        "listingAgent": {
+            "name": "Jordan Kleinman",
+            "phone": "6093353904",
+            "email": "jordan.kleinman@foxroach.com",
+            "website": "http://jordankleinman.featuredwebsite.com/home.asp"
+        },
+        "listingOffice": {
+            "name": "BHHS Fox & Roach Margate",
+            "email": "clientservices@foxroach.com",
+            "website": "https://margate.foxroach.com"
+        },
+        "history": {
+            "2025-05-01": {
+                "event": "Rental Listing",
+                "price": 1800,
+                "listingType": "Standard",
+                "listedDate": "2025-05-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 78
+            }
+        }
+    },
+    {
+        "id": "522-N-Indiana-Ave,-Apt-2,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "522 N Indiana Ave, Apt 2, Atlantic City, NJ 08401",
+        "addressLine1": "522 N Indiana Ave",
+        "addressLine2": "Apt 2",
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.366783,
+        "longitude": -74.437859,
+        "propertyType": "Apartment",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "status": "Active",
+        "price": 1800,
+        "listingType": "Standard",
+        "listedDate": "2025-05-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-20T00:00:00.000Z",
+        "lastSeenDate": "2025-07-17T03:38:59.469Z",
+        "daysOnMarket": 60,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "596391",
+        "listingAgent": {
+            "name": "Silvette Rivera",
+            "phone": "8562382082",
+            "email": "silvetterivera3@gmail.com",
+            "website": "https://silvetterivera.weichertshorehomes.com/"
+        },
+        "listingOffice": {
+            "name": "WEICHERT REALTORS ASBURY GROUP-AC",
+            "phone": "6093446200",
+            "email": "john@weichertoc.com",
+            "website": "www.weichertoc.com"
+        },
+        "history": {
+            "2025-05-19": {
+                "event": "Rental Listing",
+                "price": 1800,
+                "listingType": "Standard",
+                "listedDate": "2025-05-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 60
+            }
+        }
+    },
+    {
+        "id": "34-N-Montgomery-Ave,-Atlantic-City,-NJ-08401",
+        "formattedAddress": "34 N Montgomery Ave, Atlantic City, NJ 08401",
+        "addressLine1": "34 N Montgomery Ave",
+        "addressLine2": null,
+        "city": "Atlantic City",
+        "state": "NJ",
+        "zipCode": "08401",
+        "county": "Atlantic",
+        "latitude": 39.34704,
+        "longitude": -74.466252,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1240,
+        "status": "Active",
+        "price": 15000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-06-28T16:47:11.958Z",
+        "lastSeenDate": "2025-07-17T03:38:59.461Z",
+        "daysOnMarket": 71,
+        "mlsName": "AtlanticCity",
+        "mlsNumber": "596034",
+        "listingAgent": {
+            "name": "Gennifer Reiff",
+            "phone": "6099084928",
+            "email": "gennifer.reiff@foxroach.com",
+            "website": "http://genniferreiff.foxandroach.com"
+        },
+        "listingOffice": {
+            "name": "BHHS Fox & Roach Margate",
+            "email": "clientservices@foxroach.com",
+            "website": "https://margate.foxroach.com"
+        },
+        "history": {
+            "2025-05-08": {
+                "event": "Rental Listing",
+                "price": 15000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 71
+            }
+        }
+    }
+]

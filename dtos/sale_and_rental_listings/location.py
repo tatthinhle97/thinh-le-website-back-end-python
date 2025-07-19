@@ -1,5 +1,7 @@
-from typing import Optional
+from typing import Optional, List
 from pydantic import BaseModel
+from dtos.sale_and_rental_listings.location_history import LocationHistoryDto
+
 
 class LocationDto(BaseModel):
     fullAddress: str
@@ -13,12 +15,13 @@ class LocationDto(BaseModel):
     lotArea: Optional[float]
     yearBuilt: Optional[int]
     price: Optional[float]
-    hoaFee: Optional[float]
+    hoaFee: Optional[float] = None
     daysOnMarket: Optional[int]
-    listingOfficeName: Optional[str]
-    listingOfficePhone: Optional[str]
-    listingOfficeEmail: Optional[str]
-    listingAgentName: Optional[str]
-    listingAgentPhone: Optional[str]
-    listingAgentEmail: Optional[str]
+    listingOfficeName: Optional[str] = None
+    listingOfficePhone: Optional[str] = None
+    listingOfficeEmail: Optional[str] = None
+    listingAgentName: Optional[str] = None
+    listingAgentPhone: Optional[str] = None
+    listingAgentEmail: Optional[str] = None
     status: Optional[str]
+    history: List[LocationHistoryDto] = []

@@ -1,6 +1,7 @@
 from fastapi import APIRouter
 import os
 from dtos.sale_and_rental_listings.location import LocationDto
+from dtos.sale_and_rental_listings.location_history import LocationHistoryDto
 from utilities.file_reader import read_json
 
 router = APIRouter(
@@ -21,20 +22,14 @@ def to_location_dto(_listing):
         lotArea = _listing.get('lotSize'),
         yearBuilt = _listing.get('yearBuilt'),
         price = _listing.get('price'),
-        hoaFee = None,
         daysOnMarket = _listing.get('daysOnMarket'),
-        listingOfficeName = None,
-        listingOfficePhone = None,
-        listingOfficeEmail = None,
-        listingAgentName = None,
-        listingAgentPhone = None,
-        listingAgentEmail = None,
         status = _listing.get('status'),
     )
 
     hoa = _listing.get('hoa')
     listingOffice = _listing.get('listingOffice')
     listingAgent = _listing.get('listingAgent')
+    history = _listing.get('history')
 
     if hoa:
         location_dto.hoaFee = hoa.get('fee')
@@ -46,6 +41,16 @@ def to_location_dto(_listing):
         location_dto.listingAgentName = listingAgent.get('name')
         location_dto.listingAgentPhone = listingAgent.get('phone')
         location_dto.listingAgentEmail = listingAgent.get('email')
+    if history:
+        location_dto.history = [
+        LocationHistoryDto(
+            date=_date,
+            event=_history["event"],
+            price=_history["price"],
+            daysOnMarket=_history["daysOnMarket"]
+        )
+        for _date, _history in history.items()
+    ]
 
     return location_dto
 

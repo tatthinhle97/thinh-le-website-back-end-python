@@ -9,8 +9,8 @@ router = APIRouter(
 )
 
 def to_location_dto(_listing):
-    return LocationDto(
-        title = _listing.get('formattedAddress'),
+    location_dto = LocationDto(
+        fullAddress= _listing.get('formattedAddress'),
         lat = _listing.get('latitude'),
         lng = _listing.get('longitude'),
         propertyType = _listing.get('propertyType'),
@@ -21,8 +21,34 @@ def to_location_dto(_listing):
         lotArea = _listing.get('lotSize'),
         yearBuilt = _listing.get('yearBuilt'),
         price = _listing.get('price'),
-        status = _listing.get('status')
+        hoaFee = None,
+        daysOnMarket = _listing.get('daysOnMarket'),
+        listingOfficeName = None,
+        listingOfficePhone = None,
+        listingOfficeEmail = None,
+        listingAgentName = None,
+        listingAgentPhone = None,
+        listingAgentEmail = None,
+        status = _listing.get('status'),
     )
+
+    hoa = _listing.get('hoa')
+    listingOffice = _listing.get('listingOffice')
+    listingAgent = _listing.get('listingAgent')
+
+    if hoa:
+        location_dto.hoaFee = hoa.get('fee')
+    if listingOffice:
+        location_dto.listingOfficeName = listingOffice.get('name')
+        location_dto.listingOfficePhone = listingOffice.get('phone')
+        location_dto.listingOfficeEmail = listingOffice.get('email')
+    if listingAgent:
+        location_dto.listingAgentName = listingAgent.get('name')
+        location_dto.listingAgentPhone = listingAgent.get('phone')
+        location_dto.listingAgentEmail = listingAgent.get('email')
+
+    return location_dto
+
 @router.get(
     '/default-rental-listings',
     summary='Get the default rental listings data.',

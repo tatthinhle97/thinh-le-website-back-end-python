@@ -2,7 +2,7 @@ from typing import Optional
 from pydantic import BaseModel
 
 class LocationDto(BaseModel):
-    title: str
+    fullAddress: str
     lat: float
     lng: float
     propertyType: str
@@ -12,5 +12,13 @@ class LocationDto(BaseModel):
     livingArea: Optional[float]
     lotArea: Optional[float]
     yearBuilt: Optional[int]
-    price: Optional[int]
+    price: Optional[float]
+    hoaFee: Optional[float]
+    daysOnMarket: Optional[int]
+    listingOfficeName: Optional[str]
+    listingOfficePhone: Optional[str]
+    listingOfficeEmail: Optional[str]
+    listingAgentName: Optional[str]
+    listingAgentPhone: Optional[str]
+    listingAgentEmail: Optional[str]
     status: Optional[str]

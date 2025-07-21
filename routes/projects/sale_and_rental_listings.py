@@ -2,12 +2,12 @@ from fastapi import APIRouter
 import os
 from dtos.sale_and_rental_listings.location import LocationDto
 from dtos.sale_and_rental_listings.location_history import LocationHistoryDto
+from dtos.sale_and_rental_listings.location_search import LocationSearchDto
 from utilities.file_reader import read_json
+import httpx
+import pandas
 
-router = APIRouter(
-    prefix='/projects/sale-and-rental-listings',
-    tags=['sale-and-rental-listings']
-)
+states_file_path = os.path.join(os.getcwd(), 'data', 'states.csv')
 
 def to_location_dto(_listing):
     location_dto = LocationDto(
@@ -54,20 +54,68 @@ def to_location_dto(_listing):
 
     return location_dto
 
+def to_location_dtos(_listings):
+    location_dtos = []
+
+    for listing in _listings:
+        location_dtos.append(to_location_dto(listing))
+
+    return sorted(location_dtos,
+                  key=lambda _listing: _listing.price)
+
+router = APIRouter(
+    prefix='/projects/sale-and-rental-listings',
+    tags=['sale-and-rental-listings']
+)
+
 @router.get(
     '/default-rental-listings',
     summary='Get the default rental listings data.',
     description='Rental listings in New Jersey - Atlantic City'
 )
 async def get_initial_sale_listings():
-    file_path = os.path.join(os.getcwd(), 'data', 'nj-rental-listings.json')
+    file_path = os.path.join(os.getcwd(), 'data', 'rental-listings.json')
     listings = read_json(file_path)
-    location_dtos = []
+    return to_location_dtos(listings)
 
-    for listing in listings:
-        location_dtos.append(to_location_dto(listing))
 
-    location_dtos_sorted_by_price = sorted(location_dtos,
-                                      key=lambda _listing: _listing.price)
+@router.post(
+    '/search-listings',
+    summary='Search for listings.',
+    description='Search for rental or sale listings.'
+)
+async def get_listings(_locationSearchDto: LocationSearchDto):
+    url_prefix = 'https://api.rentcast.io/v1/listings'
+    sale_url = f'{url_prefix}/sale'
+    rental_url = f'{url_prefix}/rental/long-term'
+    url = sale_url if _locationSearchDto.searchFor == 'Sale' else rental_url
 
-    return location_dtos_sorted_by_price
+    params = {
+        'city': _locationSearchDto.city,
+        'status': 'Active',
+        'limit': 500
+    }
+
+    states_df = pandas.read_csv(states_file_path)
+    states = states_df[states_df['name'] == _locationSearchDto.state]
+
+    params['state'] = states['code'].iloc[0]
+
+    if _locationSearchDto.zipCode:
+        params['zipCode'] = _locationSearchDto.zipCode
+    if _locationSearchDto.propertyType:
+        params['propertyType'] = _locationSearchDto.propertyType
+    if _locationSearchDto.bedRooms:
+        params['bedrooms'] = float(_locationSearchDto.bedRooms)
+    if _locationSearchDto.bathRooms:
+        params['bathrooms'] = float(_locationSearchDto.bathRooms)
+
+    headers = {
+        "accept": "application/json",
+        "X-Api-Key": _locationSearchDto.rentCastApiKey
+    }
+
+    async with httpx.AsyncClient() as client:
+        response = await client.get(url, params=params, headers=headers)
+        listings = response.json()
+        return to_location_dtos(listings)

@@ -3,6 +3,7 @@ pandas
 pydantic
 pydantic_settings
 python-dotenv
+httpx
 #qdrant_client
 # Transform texts into vector embedding
 #sentence_transformers

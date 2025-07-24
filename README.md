@@ -1,7 +1,7 @@
 # Installation
 
 1. Create a virtual environment (`.venv`) either by using PyCharm or creating it manually.
-2. Activate the virtual environment. In PyCharm, the activate.ps1 file is located at `.\.venv\Scripts\activate.ps1`.
+2. Activate the virtual environment. In PyCharm, the activate.ps1 file is located at `./.venv/Scripts/activate.ps1`.
 3. Within the activated environment, use the following command to install FastAPI: `pip install "fastapi[all]"`
 
 # Run the application

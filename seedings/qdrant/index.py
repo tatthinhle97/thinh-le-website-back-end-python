@@ -18,8 +18,7 @@ points = []
 for page_metadata_point in PAGE_METADATA_POINTS:
     metadata = page_metadata_point.payload.description
     metadata_encoded = encode_texts(metadata)
-    if page_metadata_point.payload.path == '/projects':
-        print(metadata_encoded)
+
     points.append(
         PointStruct(
             id = page_metadata_point.id,

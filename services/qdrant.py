@@ -70,7 +70,6 @@ def upsert(_collection_name, _points):
 
 def search_similar_points_by_query(_collection_name, _query, _limit=5):
     embedded_vector = encode_texts(_query)
-    print(embedded_vector)
     similar_points = client.query_points(
         collection_name=_collection_name,
         query=embedded_vector,

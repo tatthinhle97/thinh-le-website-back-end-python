@@ -6,6 +6,6 @@ python-dotenv
 httpx
 qdrant_client
 # Transform texts into vector embedding
-sentence_transformers
+sentence-transformers[onnx]
 # Improve download speed from hugging face
 hf_xet

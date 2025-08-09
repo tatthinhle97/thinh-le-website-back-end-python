@@ -8,7 +8,7 @@ PAGE_METADATA_POINTS = [
         payload = PageMetadataDto(
             title = "Home page",
             path = "/",
-            tags= ["home page", ],
+            tags= ["home page"],
             description = "Home page is where you can find a brief introduction to the purpose of this website."
         )
     ),

@@ -8,6 +8,5 @@ pydantic-settings
 
 qdrant-client
 
-optimum
-onnxruntime
-sentence-transformers
+optimum[onnxruntime]
+sentence-transformers[onnx]

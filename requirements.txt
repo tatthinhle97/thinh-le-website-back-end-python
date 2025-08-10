@@ -5,7 +5,4 @@ pydantic_settings
 python-dotenv
 httpx
 qdrant_client
-# Transform texts into vector embedding
 sentence-transformers[onnx]
-# Improve download speed from hugging face
-hf_xet

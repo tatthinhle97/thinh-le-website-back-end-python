@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from dtos.chat.chat_query import ChatQueryDto
-from services.qdrant import search_similar_points_by_query, find_highest_score
+#from services.qdrant import search_similar_points_by_query, find_highest_score
 
 router = APIRouter(
     prefix='/chatbot',

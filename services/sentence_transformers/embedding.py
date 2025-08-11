@@ -17,8 +17,7 @@ def load_onnx_model():
     # Force ONNX backend usage
     model = SentenceTransformer(
         model_path,
-        backend="onnx",  # Use ONNX backend
-        device="cpu"     # Force CPU usage for consistency
+        backend="onnx"  # Use ONNX backend
     )
 
     return model

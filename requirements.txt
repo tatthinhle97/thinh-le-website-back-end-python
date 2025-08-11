@@ -3,7 +3,6 @@ pandas
 pydantic
 python-dotenv
 httpx
-uvicorn
 pydantic-settings
 #qdrant-client
 #sentence-transformers

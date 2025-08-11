@@ -5,8 +5,5 @@ python-dotenv
 httpx
 uvicorn
 pydantic-settings
-
 qdrant-client
-
-optimum[onnxruntime]
 sentence-transformers[onnx]

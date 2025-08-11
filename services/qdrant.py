@@ -2,7 +2,7 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams
 import os
 from dotenv import load_dotenv
-from services.sentence_transformers.embedding import encode_texts
+#from services.vector_embedding import encode_texts
 
 load_dotenv()
 
@@ -69,15 +69,16 @@ def upsert(_collection_name, _points):
         return None
 
 def search_similar_points_by_query(_collection_name, _query, _limit=5):
-    embedded_vector = encode_texts(_query)
-    print(embedded_vector)
-    similar_points = client.query_points(
-        collection_name=_collection_name,
-        query=embedded_vector,
-        # How many similar sentences you want to return?
-        limit=_limit)
-
-    return similar_points
+    # embedded_vector = encode_texts(_query)
+    #
+    # similar_points = client.query_points(
+    #     collection_name=_collection_name,
+    #     query=embedded_vector,
+    #     # How many similar sentences you want to return?
+    #     limit=_limit)
+    #
+    # return similar_points
+    return []
 
 def find_highest_score(_points):
     if len(_points) == 0:

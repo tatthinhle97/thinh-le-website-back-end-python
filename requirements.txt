@@ -6,4 +6,4 @@ httpx
 uvicorn
 pydantic-settings
 qdrant-client
-sentence-transformers[onnx]
+#sentence-transformers

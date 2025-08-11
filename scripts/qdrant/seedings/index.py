@@ -1,7 +1,7 @@
-# from seedings.qdrant.data.faq_metadata import FAQ_METADATA_POINTS
-# from seedings.qdrant.data.page_metadata import PAGE_METADATA_POINTS
+# from scripts.qdrant.seedings.data.faq_metadata import FAQ_METADATA_POINTS
+# from scripts.qdrant.seedings.data.page_metadata import PAGE_METADATA_POINTS
 # from services.qdrant import create_collection, delete_collection, upsert
-# from services.embedding import encode_texts
+# from services.vector_embedder import encode_texts
 # from qdrant_client.models import PointStruct
 #
 # # Create a collection name website_metadata if not exists
@@ -45,5 +45,5 @@
 #     )
 #
 #
-# #upsert(COLLECTION_NAME, points)
+# upsert(COLLECTION_NAME, points)
 #

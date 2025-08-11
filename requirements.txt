@@ -4,5 +4,5 @@ pydantic
 python-dotenv
 httpx
 pydantic-settings
-#qdrant-client
+qdrant-client
 #sentence-transformers

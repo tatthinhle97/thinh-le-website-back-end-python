@@ -3,7 +3,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from routes.locations import states, cities
 from routes.projects import sale_and_rental_listings
 from routes import chat
-import os
 from dotenv import load_dotenv
 
 # This will be the main point of interaction to create all your API.

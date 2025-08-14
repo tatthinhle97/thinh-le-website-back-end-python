@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routes.locations import states, cities
 from routes.projects import sale_and_rental_listings
-from routes import chat
+from routes import chat, contact_me
 from dotenv import load_dotenv
 
 # This will be the main point of interaction to create all your API.
@@ -21,9 +21,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+app.include_router(contact_me.router)
 app.include_router(chat.router)
+
 app.include_router(states.router)
 app.include_router(cities.router)
+
 app.include_router(sale_and_rental_listings.router)
 
 @app.get('/')

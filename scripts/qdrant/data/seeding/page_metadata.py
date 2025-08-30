@@ -19,7 +19,7 @@ PAGE_METADATA_POINTS = [
             path = "/about-me",
             tags= ["page", "author", "author of the website", "website's author"],
             description= (
-                "The about me page has a short introduction to the author of this website, where you can learn more "
+                "The about me page has a short introduction about the author of this website, where you can learn more "
                 "about his skills, accomplishments, and career goals."
             ),
         )

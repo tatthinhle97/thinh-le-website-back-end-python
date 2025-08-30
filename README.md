@@ -36,6 +36,13 @@ Or simply click:
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/fastapi)
 
+# Database
+Database is hosted by the aiven platform
+
+## Notes
+
+- Go to the database console and click on the quick connect to view different connect methods.
+
 # Quick actions
 
 ## Kill active process by port

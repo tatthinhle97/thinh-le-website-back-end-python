@@ -1,5 +1,5 @@
-# from scripts.qdrant.seedings.data.faq_metadata import FAQ_METADATA_POINTS
-# from scripts.qdrant.seedings.data.page_metadata import PAGE_METADATA_POINTS
+# from scripts.qdrant.data.seeding.faq_metadata import FAQ_METADATA_POINTS
+# from scripts.qdrant.data.seeding.page_metadata import PAGE_METADATA_POINTS
 # from services.qdrant import create_collection, delete_collection, upsert
 # from services.vector_embedder import encode_texts
 # from qdrant_client.models import PointStruct

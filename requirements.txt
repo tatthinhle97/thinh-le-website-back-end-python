@@ -8,3 +8,5 @@ pydantic-settings
 requests
 #sentence-transformers
 sqlalchemy
+# MySQL connector
+pymysql

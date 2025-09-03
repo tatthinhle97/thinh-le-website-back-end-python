@@ -41,7 +41,18 @@ Database is hosted by the aiven platform
 
 ## Notes
 
-- Go to the database console and click on the quick connect to view different connect methods.
+- Go to the [database console](https://console.aiven.io/) to view different connect methods and download the CA certificate.
+
+# SQLAlchemy
+
+## [MySQL-Connector](https://docs.sqlalchemy.org/en/20/dialects/mysql.html#module-sqlalchemy.dialects.mysql.mysqlconnector)
+`mysql+mysqlconnector://<user>:<password>@<host>[:<port>]/<dbname>
+`
+
+## Notes
+
+- Use `Session.scalars()` method to skip the generation of Row objects and instead receive ORM entities directly (https://docs.sqlalchemy.org/en/20/orm/queryguide/select.html#selecting-orm-entities).
+- Use `session.execute(query).mappings()` to apply a mappings filter to returned rows, returning an instance of MappingResult (dictionary values) (https://docs.sqlalchemy.org/en/20/core/connections.html#sqlalchemy.engine.CursorResult.mappings).
 
 # Quick actions
 
@@ -54,7 +65,7 @@ taskkill /pid 1234 /f
 
 ## Terminate uvicorn server
 
-Find running python processes and terminate them (be careful)
+Find running python processes in task manager and terminate them (be careful)
 
 # Architecture
 

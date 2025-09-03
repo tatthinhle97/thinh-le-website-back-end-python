@@ -1,6 +1,6 @@
-from fastapi import APIRouter
-import os
-from utilities.file_reader import read_csv_as_json
+from fastapi import APIRouter, Depends
+from databases.mysql import get_db_session
+from repositories.state import StateRepository
 
 router = APIRouter(
     prefix='/states',
@@ -13,6 +13,6 @@ router = APIRouter(
     summary='Get all states',
     description='Get all states'
 )
-async def get_states():
-    file_path = os.path.join(os.getcwd(), 'data', 'states.csv')
-    return read_csv_as_json(file_path)
+async def get_states(db_session = Depends(get_db_session)):
+    state_repository = StateRepository(db_session)
+    return state_repository.get_all()

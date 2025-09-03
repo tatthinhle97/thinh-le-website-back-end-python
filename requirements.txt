@@ -7,3 +7,4 @@ pydantic-settings
 #qdrant-client
 requests
 #sentence-transformers
+sqlalchemy
